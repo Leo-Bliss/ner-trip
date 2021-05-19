@@ -1,0 +1,40 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+免,O,B,v,刀,miǎn
+疫,O,E,v,疒,yì
+调,O,B,n,讠,tiáo
+节,O,M,n,艹,jié
+剂,O,E,n,刂,jì
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+癌,O,B,n,疒,ái
+症,O,E,n,疒,zhèng
+ ,O,S,x,UNK,UNK
+通,O,B,j,辶,tōng
+化,O,E,j,亻,huà
+茂,O,B,nr,艹,mào
+祥,O,E,nr,礻,xiáng
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

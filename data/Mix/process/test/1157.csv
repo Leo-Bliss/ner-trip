@@ -1,0 +1,70 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+厦,O,B,ns,厂,shà
+门,O,E,ns,门,mén
+中,O,B,nt,丨,zhōng
+药,O,M,nt,艹,yào
+厂,O,E,nt,厂,chǎng
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+固,O,S,j,囗,gù
+肾,O,S,n,月,shèn
+，,O,S,x,UNK,UNK
+涩,O,S,a,氵,sè
+精,O,S,n,米,jīng
+，,O,S,x,UNK,UNK
+化,O,S,v,亻,huà
+浊,O,S,an,氵,zhuó
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+，,O,S,x,UNK,UNK
+精,O,B,a,米,jīng
+浊,O,E,a,氵,zhuó
+，,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+尿,O,E,n,尸,niào
+，,O,S,x,UNK,UNK
+尿,B-ZZ,B,n,尸,niào
+频,E-ZZ,E,n,页,pín
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,ng,丿,wán
+重,O,B,d,里,zhòng
+约,O,E,d,纟,yuē
+1,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,x,UNK,UNK
+-,O,S,x,UNK,UNK
+9,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

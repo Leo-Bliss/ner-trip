@@ -1,0 +1,41 @@
+ .list{
+      display:flex;
+    }
+    .leftList{
+      width:700px;
+
+    }
+    .rightList{
+      width:300px;
+      padding-top:10px;
+      padding-left:10px;
+      border:0px; /*solid #999;*/
+    }
+    ul{
+      display:flex;
+      flex-wrap: wrap;
+      padding:0;
+      margin:0;
+    }
+    .left{
+      padding-top:10px;
+      padding-left:10px;
+    }
+    .right{
+      margin-top:30px;
+      margin-left:10px;
+      padding-bottom: 30px;
+    }
+    li{
+      display:flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      height:30px;
+      list-style:none;
+      border:0px solid #000;
+      margin:5px 0 0 5px;
+    }
+    span{
+      margin: 0 10px;
+    }

@@ -1,0 +1,79 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+调,O,B,v,讠,tiáo
+经,O,E,v,纟,jīng
+活,B-ZF,B,vn,氵,huó
+血,E-ZF,E,vn,血,xiě
+，,O,S,x,UNK,UNK
+行,B-ZF,B,n,行,háng
+气,I-ZF,E,n,气,qì
+止,I-ZF,B,v,止,zhǐ
+痛,E-ZF,E,v,疒,tòng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,M,n,纟,jīng
+不,I-ZZ,M,n,一,bù
+调,E-ZZ,E,n,讠,tiáo
+，,O,S,x,UNK,UNK
+行,O,B,n,行,háng
+经,O,E,n,纟,jīng
+腹,B-ZZ,B,n,月,fù
+痛,E-ZZ,E,n,疒,tòng
+ ,O,S,x,UNK,UNK
+江,O,B,ns,氵,jiāng
+西,O,E,ns,覀,xī
+新,O,S,a,斤,xīn
+赣,O,B,ns,贝,gàn
+江,O,E,ns,氵,jiāng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,n,母,měi
+粒,O,E,n,米,lì
+装,O,S,n,衣,zhuāng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+3,O,M,m,UNK,UNK
+8,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+L,O,S,eng,UNK,UNK
+克,O,S,nr,十,kè
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

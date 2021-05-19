@@ -1,0 +1,123 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+丸,O,S,q,丿,wán
+重,O,S,a,里,zhòng
+9,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+青,O,B,ns,青,qīng
+海,O,M,ns,氵,hǎi
+省,O,E,ns,目,shěng
+格,O,B,nrt,木,gé
+拉,O,E,nrt,扌,lā
+丹,O,B,ns,丿,dān
+东,O,E,ns,一,dōng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+益,O,S,nr,皿,yì
+肾,O,S,n,月,shèn
+，,O,S,x,UNK,UNK
+养,O,S,v,丷,yǎng
+心,O,B,n,心,xīn
+安,O,M,n,宀,ān
+神,O,E,n,礻,shén
+，,O,S,x,UNK,UNK
+强,O,B,l,弓,qiáng
+筋,O,M,l,竹,jīn
+骨,O,E,l,骨,gǔ
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+心,B-ZZ,B,v,心,xīn
+悸,I-ZZ,E,v,忄,jì
+失,I-ZZ,B,v,大,shī
+眠,E-ZZ,E,v,目,mián
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+脾,B-ZH,B,n,月,pí
+胃,I-ZH,E,n,月,wèi
+不,E-ZH,S,d,一,bù
+和,O,S,c,口,hé
+，,O,S,x,UNK,UNK
+老,O,B,t,耂,lǎo
+年,O,E,t,干,nián
+虚,O,B,a,虍,xū
+弱,O,E,a,弓,ruò
+，,O,S,x,UNK,UNK
+经,O,B,n,纟,jīng
+络,O,E,n,纟,luò
+不,O,B,a,一,bù
+利,O,E,a,刂,lì
+，,O,S,x,UNK,UNK
+肢,O,B,n,月,zhī
+体,O,E,n,亻,tǐ
+僵,O,B,v,亻,jiāng
+直,O,E,v,目,zhí
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,S,m,UNK,UNK
+丸,O,S,ng,丿,wán
+，,O,S,x,UNK,UNK
+冬,O,B,t,夂,dōng
+春,O,M,t,日,chūn
+季,O,E,t,子,jì
+每,O,B,r,母,měi
+晚,O,E,r,日,wǎn
+服,O,B,vn,月,fú
+用,O,E,vn,用,yòng
+1,O,S,m,UNK,UNK
+丸,O,S,ng,丿,wán
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+;,O,S,x,UNK,UNK
+高,O,B,n,高,gāo
+血,O,M,n,血,xiě
+压,O,E,n,厂,yā
+、,O,S,x,UNK,UNK
+胆,O,S,n,月,dǎn
+病,O,B,n,疒,bìng
+患,O,M,n,心,huàn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

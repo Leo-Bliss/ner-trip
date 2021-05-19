@@ -1,0 +1,86 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+饭,O,B,t,饣,fàn
+后,O,E,t,口,hòu
+3,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+分,O,B,q,刀,fēn
+钟,O,E,q,钅,zhōng
+用,O,S,p,用,yòng
+温,O,B,nr,氵,wēn
+开,O,M,nr,廾,kāi
+水,O,E,nr,水,shuǐ
+冲,O,B,v,冫,chōng
+服,O,E,v,月,fú
+；,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+次,O,E,r,欠,cì
+5,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,x,UNK,UNK
+-,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+周,O,S,nr,口,zhōu
+为,O,S,p,丶,wéi
+一,O,S,m,一,yī
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+粒,O,B,n,米,lì
+重,O,E,n,里,zhòng
+6,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+4,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+山,O,B,ns,山,shān
+东,O,E,ns,一,dōng
+孔,O,B,nr,子,kǒng
+府,O,E,nr,广,fǔ
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+清,B-ZF,B,l,氵,qīng
+热,I-ZF,M,l,灬,rè
+解,I-ZF,M,l,角,jiě
+毒,E-ZF,E,l,母,dú
+、,O,S,x,UNK,UNK
+祛,O,S,vg,礻,qū
+湿,O,B,z,氵,shī
+通,O,M,z,辶,tōng
+淋,O,E,z,氵,lín
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+下,B-ZH,B,v,一,xià
+焦,I-ZH,E,v,灬,jiāo
+湿,I-ZH,B,z,氵,shī
+热,I-ZH,E,z,灬,rè
+证,E-ZH,S,n,讠,zhèng
+seg,seg,seg,seg,seg,seg

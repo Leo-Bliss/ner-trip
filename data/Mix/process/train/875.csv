@@ -1,0 +1,134 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+南,O,B,ns,十,nán
+京,O,E,ns,亠,jīng
+中,O,B,ns,丨,zhōng
+山,O,E,ns,山,shān
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+温,O,B,ns,氵,wēn
+阳,O,E,ns,阝,yáng
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+气,I-ZH,E,n,气,qì
+亏,E-ZH,B,v,二,kuī
+虚,O,E,v,虍,xū
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+阳,O,B,n,阝,yáng
+气,O,E,n,气,qì
+不,O,B,a,一,bù
+足,O,E,a,足,zú
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+、,O,S,x,UNK,UNK
+早,O,B,v,日,zǎo
+泄,O,E,v,氵,xiè
+、,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+或,O,S,c,戈,huò
+弱,O,S,a,弓,ruò
+精,O,B,n,米,jīng
+症,O,E,n,疒,zhèng
+弱,O,S,a,弓,ruò
+精,O,B,n,米,jīng
+症,O,E,n,疒,zhèng
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+2,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+8,O,E,m,UNK,UNK
+岁,O,S,m,山,suì
+以,O,B,f,人,yǐ
+下,O,E,f,一,xià
+患,O,B,n,心,huàn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+开,O,B,v,廾,kāi
+水,O,E,v,水,shuǐ
+冲,O,B,v,冫,chōng
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+一,O,B,m,一,yī
+袋,O,E,m,衣,dài
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+温,O,B,ns,氵,wēn
+阳,O,E,ns,阝,yáng
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+，,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+气,I-ZH,E,n,气,qì
+亏,E-ZH,B,v,二,kuī
+虚,O,E,v,虍,xū
+、,O,S,x,UNK,UNK
+阳,O,B,n,阝,yáng
+气,O,E,n,气,qì
+不,O,B,a,一,bù
+足,O,E,a,足,zú
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+、,O,S,x,UNK,UNK
+早,O,B,v,日,zǎo
+泄,O,E,v,氵,xiè
+、,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+或,O,S,c,戈,huò
+弱,O,S,a,弓,ruò
+精,O,B,n,米,jīng
+症,O,E,n,疒,zhèng
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

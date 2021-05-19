@@ -1,0 +1,155 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+乙,O,B,n,乙,yǐ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+3,O,B,m,UNK,UNK
+6,O,E,m,UNK,UNK
+个,O,S,m,人,gè
+月,O,S,m,月,yuè
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+肝,O,M,n,月,gān
+肾,O,E,n,月,shèn
+，,O,S,x,UNK,UNK
+乌,O,S,nr,丿,wū
+须,O,B,v,页,xū
+发,O,E,v,又,fā
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肝,B-ZH,B,n,月,gān
+肾,I-ZH,E,n,月,shèn
+两,I-ZH,S,m,一,liǎng
+虚,E-ZH,S,n,虍,xū
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+的,O,S,uj,白,dí
+须,O,B,v,页,xū
+发,O,E,v,又,fā
+脱,O,B,v,月,tuō
+落,O,E,v,艹,là
+、,O,S,x,UNK,UNK
+早,O,S,a,日,zǎo
+白,O,B,i,白,bái
+头,B-FY,M,i,大,tóu
+发,E-FY,E,i,又,fā
+脱,O,B,v,月,tuō
+落,O,E,v,艹,là
+和,O,S,c,口,hé
+早,O,S,a,日,zǎo
+白,O,S,n,白,bái
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+支,O,E,r,支,zhī
+装,O,S,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+大,O,B,d,大,dà
+连,O,E,d,辶,lián
+水,O,B,n,水,shuǐ
+产,O,E,n,亠,chǎn
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+头,B-FY,B,n,大,tóu
+发,E-FY,E,n,又,fā
+脱,O,B,v,月,tuō
+落,O,E,v,艹,là
+和,O,S,c,口,hé
+早,O,S,a,日,zǎo
+白,O,S,n,白,bái
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+6,O,S,m,UNK,UNK
+盒,O,S,n,皿,hé
+/,O,S,x,UNK,UNK
+月,O,S,m,月,yuè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+个,O,E,m,人,gè
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+1,O,B,m,UNK,UNK
+8,O,E,m,UNK,UNK
+盒,O,S,n,皿,hé
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,S,m,UNK,UNK
+支,O,S,v,支,zhī
+(,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+毫,O,B,q,毛,háo
+升,O,E,q,十,shēng
+),O,S,x,UNK,UNK
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+密,O,B,ns,宀,mì
+封,O,E,ns,寸,fēng
+，,O,S,x,UNK,UNK
+置,O,S,v,罒,zhì
+避,O,B,v,辶,bì
+光,O,E,v,儿,guāng
+阴,O,B,n,阝,yīn
+凉,O,M,n,冫,liáng
+处,O,E,n,夂,chǔ
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

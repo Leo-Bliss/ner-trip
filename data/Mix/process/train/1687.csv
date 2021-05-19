@@ -1,0 +1,98 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+临,O,B,n,丨,lín
+睡,O,M,n,目,shuì
+前,O,E,n,刂,qián
+洗,O,B,v,氵,xǐ
+净,O,E,v,冫,jìng
+外,O,B,n,夕,wài
+阴,O,E,n,阝,yīn
+和,O,S,c,口,hé
+手,O,S,n,手,shǒu
+，,O,S,x,UNK,UNK
+戴,O,S,v,戈,dài
+上,O,S,f,一,shàng
+一,O,B,d,一,yī
+次,O,M,d,欠,cì
+性,O,E,d,忄,xìng
+指,O,B,n,扌,zhǐ
+套,O,E,n,大,tào
+，,O,S,x,UNK,UNK
+将,O,S,d,寸,jiāng
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+塞,O,B,v,土,sāi
+入,O,E,v,入,rù
+阴,O,B,n,阝,yīn
+道,O,E,n,辶,dào
+深,O,B,j,氵,shēn
+部,O,E,j,阝,bù
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+1,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+8,O,S,m,UNK,UNK
+日,O,S,m,日,rì
+为,O,S,p,丶,wéi
+一,O,B,m,一,yī
+个,O,E,m,人,gè
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+.,O,E,m,UNK,UNK
+阴,O,B,n,阝,yīn
+道,O,E,n,辶,dào
+粘,O,B,n,米,nián
+膜,O,E,n,月,mó
+破,O,B,v,石,pò
+损,O,E,v,扌,sǔn
+时,O,S,n,日,shí
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+，,O,S,x,UNK,UNK
+妊,O,B,t,女,rèn
+娠,O,M,t,女,shēn
+期,O,E,t,月,qī
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+8,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+8,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+灰,O,B,n,火,huī
+褐,O,M,n,衤,hè
+色,O,E,n,色,sè
+至,O,S,p,至,zhì
+褐,O,B,n,衤,hè
+色,O,E,n,色,sè
+的,O,S,uj,白,dí
+片,O,S,m,片,piàn
+；,O,S,x,UNK,UNK
+气,O,S,n,气,qì
+芳,O,B,n,艹,fāng
+香,O,E,n,香,xiāng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,128 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+山,O,B,ns,山,shān
+东,O,E,ns,一,dōng
+沃,O,B,nz,氵,wò
+华,O,E,nz,十,huá
+医,O,B,n,匚,yī
+药,O,E,n,艹,yào
+科,O,B,n,禾,kē
+技,O,M,n,扌,jì
+股,O,M,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+消,O,B,n,氵,xiāo
+积,O,M,n,禾,jī
+理,O,E,n,王,lǐ
+脾,O,S,n,月,pí
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+治,O,B,v,氵,zhì
+疗,O,E,v,疒,liáo
+缺,O,B,n,缶,quē
+铁,O,M,n,钅,tiě
+性,O,E,n,忄,xìng
+贫,O,B,n,贝,pín
+血,O,E,n,血,xiě
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+小,O,B,n,小,xiǎo
+儿,O,E,n,儿,ér
+周,O,B,m,口,zhōu
+岁,O,E,m,山,suì
+以,O,B,f,人,yǐ
+内,O,E,f,冂,nèi
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+岁,O,E,m,山,suì
+至,O,S,p,至,zhì
+三,O,B,m,一,sān
+岁,O,E,m,山,suì
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+三,O,B,m,一,sān
+岁,O,E,m,山,suì
+以,O,B,f,人,yǐ
+上,O,E,f,一,shàng
+及,O,S,c,又,jí
+成,O,B,n,戈,chéng
+人,O,E,n,人,rén
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+5,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+；,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+(,O,S,x,UNK,UNK
+相,O,B,v,目,xiāng
+当,O,M,v,彐,dāng
+于,O,E,v,二,yú
+原,O,S,n,厂,yuán
+药,O,B,n,艹,yào
+材,O,E,n,木,cái
+8,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

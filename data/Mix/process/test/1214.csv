@@ -1,0 +1,122 @@
+word,label,bound,flag,radical,pinyin
+温,O,S,v,氵,wēn
+肾,O,S,n,月,shèn
+益,O,B,nz,皿,yì
+精,O,E,nz,米,jīng
+，,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,O,B,n,月,shèn
+虚,O,E,n,虍,xū
+精,O,B,n,米,jīng
+亏,O,E,n,二,kuī
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+腰,O,S,n,月,yāo
+膝,O,S,ng,月,xī
+痠,O,B,z,疒,suān
+软,O,E,z,车,ruǎn
+肾,O,B,n,月,shèn
+虚,O,E,n,虍,xū
+精,O,B,n,米,jīng
+亏,O,E,n,二,kuī
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+腰,O,S,n,月,yāo
+膝,O,S,ng,月,xī
+痠,O,B,z,疒,suān
+软,O,E,z,车,ruǎn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+温,O,S,v,氵,wēn
+肾,O,S,n,月,shèn
+益,O,B,nz,皿,yì
+精,O,E,nz,米,jīng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+久,O,B,v,丿,jiǔ
+病,O,E,v,疒,bìng
+肾,O,B,n,月,shèn
+虚,O,E,n,虍,xū
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,a,酉,suān
+软,E-ZZ,E,a,车,ruǎn
+，,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+5,O,E,m,UNK,UNK
+-,O,S,x,UNK,UNK
+2,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+及,O,S,c,又,jí
+小,O,B,n,小,xiǎo
+儿,O,E,n,儿,ér
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+及,O,S,c,又,jí
+小,O,B,n,小,xiǎo
+儿,O,E,n,儿,ér
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+湖,O,B,ns,氵,hú
+北,O,E,ns,匕,běi
+康,O,B,n,广,kāng
+源,O,E,n,氵,yuán
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+乙,O,B,n,乙,yǐ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

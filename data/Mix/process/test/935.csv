@@ -1,0 +1,159 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+过,O,B,nr,辶,guò
+敏,O,E,nr,攵,mǐn
+体,O,B,n,亻,tǐ
+质,O,E,n,贝,zhì
+者,O,S,k,耂,zhě
+皮,O,B,nz,皮,pí
+肤,O,M,nz,月,fū
+过,O,M,nz,辶,guò
+敏,O,E,nz,攵,mǐn
+ ,O,S,x,UNK,UNK
+洗,O,B,v,氵,xǐ
+净,O,E,v,冫,jìng
+外,O,B,n,夕,wài
+阴,O,M,n,阝,yīn
+部,O,E,n,阝,bù
+，,O,S,x,UNK,UNK
+将,O,S,d,寸,jiāng
+药,O,B,n,艹,yào
+片,O,E,n,片,piàn
+塞,O,B,v,土,sāi
+入,O,E,v,入,rù
+阴,O,B,n,阝,yīn
+道,O,E,n,辶,dào
+深,O,B,j,氵,shēn
+部,O,E,j,阝,bù
+；,O,S,x,UNK,UNK
+或,O,S,c,戈,huò
+在,O,S,p,土,zài
+医,O,B,n,匚,yī
+生,O,E,n,生,shēng
+指,O,B,n,扌,zhǐ
+导,O,E,n,寸,dǎo
+下,O,S,f,一,xià
+用,O,B,n,用,yòng
+药,O,E,n,艹,yào
+。,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+晚,O,E,r,日,wǎn
+1,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+7,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+片,O,B,n,片,piàn
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+泡,O,B,n,氵,pào
+腾,O,E,n,月,téng
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+动,O,B,n,力,dòng
+物,O,E,n,牜,wù
+试,O,B,vn,讠,shì
+验,O,E,vn,马,yàn
+显,O,B,v,日,xiǎn
+示,O,E,v,示,shì
+，,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+皮,O,B,nz,皮,pí
+肤,O,M,nz,月,fū
+过,O,M,nz,辶,guò
+敏,O,E,nz,攵,mǐn
+反,O,B,vn,又,fǎn
+应,O,E,vn,广,yīng
+为,O,S,p,丶,wéi
+弱,O,B,n,弓,ruò
+阳,O,M,n,阝,yáng
+性,O,E,n,忄,xìng
+，,O,S,x,UNK,UNK
+致,O,B,n,至,zhì
+敏,O,M,n,攵,mǐn
+率,O,E,n,玄,shuài
+为,O,S,p,丶,wéi
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+%,O,S,x,UNK,UNK
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+.,O,E,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+对,O,S,p,寸,duì
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+过,O,B,n,辶,guò
+敏,O,M,n,攵,mǐn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+2,O,B,m,UNK,UNK
+.,O,E,m,UNK,UNK
+未,O,B,v,木,wèi
+婚,O,E,v,女,hūn
+妇,O,B,n,女,fù
+女,O,E,n,女,nǚ
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+已,O,B,v,己,yǐ
+婚,O,E,v,女,hūn
+妇,O,B,n,女,fù
+女,O,E,n,女,nǚ
+月,O,B,n,月,yuè
+经,O,M,n,纟,jīng
+期,O,E,n,月,qī
+、,O,S,x,UNK,UNK
+妊,O,B,t,女,rèn
+娠,O,M,t,女,shēn
+期,O,E,t,月,qī
+及,O,S,c,又,jí
+阴,O,B,n,阝,yīn
+道,O,E,n,辶,dào
+局,O,B,n,尸,jú
+部,O,E,n,阝,bù
+有,O,S,v,月,yǒu
+破,O,B,v,石,pò
+损,O,E,v,扌,sǔn
+者,O,S,k,耂,zhě
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+陕,O,B,ns,阝,shǎn
+西,O,E,ns,覀,xī
+康,O,B,nr,广,kāng
+惠,O,E,nr,心,huì
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

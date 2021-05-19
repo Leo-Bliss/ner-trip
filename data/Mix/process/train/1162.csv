@@ -1,0 +1,85 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+丸,O,B,n,丿,wán
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+浓,O,B,v,氵,nóng
+缩,O,E,v,纟,suō
+丸,O,S,zg,丿,wán
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+行,B-ZF,B,n,行,háng
+气,E-ZF,E,n,气,qì
+软,O,B,n,车,ruǎn
+坚,O,E,n,土,jiān
+，,O,S,x,UNK,UNK
+散,O,B,n,攵,sàn
+寒,O,E,n,宀,hán
+止,B-FJ,B,v,止,zhǐ
+痛,I-FJ,E,v,疒,tòng
+丸,E-FJ,B,n,丿,wán
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+浓,O,B,v,氵,nóng
+缩,O,E,v,纟,suō
+丸,O,S,zg,丿,wán
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+兰,O,B,ns,丷,lán
+州,O,E,ns,川,zhōu
+佛,O,B,nz,亻,fó
+慈,O,E,nz,心,cí
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+行,B-ZF,B,n,行,háng
+气,E-ZF,E,n,气,qì
+软,O,B,n,车,ruǎn
+坚,O,E,n,土,jiān
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+散,O,B,n,攵,sàn
+寒,O,E,n,宀,hán
+止,B-ZF,B,v,止,zhǐ
+痛,E-ZF,E,v,疒,tòng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+疝,O,B,n,疒,shàn
+气,O,E,n,气,qì
+偏,O,S,d,亻,piān
+坠,O,S,v,土,zhuì
+，,O,S,x,UNK,UNK
+睾,O,B,n,目,gāo
+丸,O,E,n,丿,wán
+胀,O,B,v,月,zhàng
+痛,O,E,v,疒,tòng
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+ ,O,S,x,UNK,UNK
+8,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,ng,丿,wán
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+ ,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,200 @@
+[2021-05-13 23:55:50,118 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x7f9c4e7417f0>
+[2021-05-13 23:55:55,340 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-13 23:55:52 epoch 1, step 1, loss: 140.4, global_step: 1
+[2021-05-13 23:55:55,340 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-13 23:55:52 epoch 1, step 1, loss: 140.4, global_step: 1
+[2021-05-14 00:01:35,389 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-13 23:55:52 epoch 1, step 216, loss: 138.9, global_step: 216
+[2021-05-14 00:01:35,389 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-13 23:55:52 epoch 1, step 216, loss: 138.9, global_step: 216
+[2021-05-14 00:01:36,904 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:01:35 epoch 2, step 1, loss: 133.7, global_step: 217
+[2021-05-14 00:01:36,904 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:01:35 epoch 2, step 1, loss: 133.7, global_step: 217
+[2021-05-14 00:07:20,346 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:01:35 epoch 2, step 216, loss: 119.2, global_step: 432
+[2021-05-14 00:07:20,346 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:01:35 epoch 2, step 216, loss: 119.2, global_step: 432
+[2021-05-14 00:07:22,558 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:07:20 epoch 3, step 1, loss: 108.2, global_step: 433
+[2021-05-14 00:07:22,558 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:07:20 epoch 3, step 1, loss: 108.2, global_step: 433
+[2021-05-14 00:13:03,993 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:07:20 epoch 3, step 216, loss: 88.2, global_step: 648
+[2021-05-14 00:13:03,993 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:07:20 epoch 3, step 216, loss: 88.2, global_step: 648
+[2021-05-14 00:13:05,647 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:13:04 epoch 4, step 1, loss: 123.8, global_step: 649
+[2021-05-14 00:13:05,647 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:13:04 epoch 4, step 1, loss: 123.8, global_step: 649
+[2021-05-14 00:18:48,516 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:13:04 epoch 4, step 216, loss: 133.8, global_step: 864
+[2021-05-14 00:18:48,516 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:13:04 epoch 4, step 216, loss: 133.8, global_step: 864
+[2021-05-14 00:18:51,108 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:18:48 epoch 5, step 1, loss: 201.0, global_step: 865
+[2021-05-14 00:18:51,108 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:18:48 epoch 5, step 1, loss: 201.0, global_step: 865
+[2021-05-14 00:24:29,978 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:18:48 epoch 5, step 216, loss: 169.7, global_step: 1080
+[2021-05-14 00:24:29,978 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:18:48 epoch 5, step 216, loss: 169.7, global_step: 1080
+[2021-05-14 00:24:31,816 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:24:30 epoch 6, step 1, loss: 136.5, global_step: 1081
+[2021-05-14 00:24:31,816 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:24:30 epoch 6, step 1, loss: 136.5, global_step: 1081
+[2021-05-14 00:30:10,264 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:24:30 epoch 6, step 216, loss: 163.4, global_step: 1296
+[2021-05-14 00:30:10,264 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:24:30 epoch 6, step 216, loss: 163.4, global_step: 1296
+[2021-05-14 00:30:11,859 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:30:10 epoch 7, step 1, loss: 162.3, global_step: 1297
+[2021-05-14 00:30:11,859 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:30:10 epoch 7, step 1, loss: 162.3, global_step: 1297
+[2021-05-14 00:35:53,582 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:30:10 epoch 7, step 216, loss: 154.3, global_step: 1512
+[2021-05-14 00:35:53,582 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:30:10 epoch 7, step 216, loss: 154.3, global_step: 1512
+[2021-05-14 00:35:55,409 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:35:53 epoch 8, step 1, loss: 146.4, global_step: 1513
+[2021-05-14 00:35:55,409 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:35:53 epoch 8, step 1, loss: 146.4, global_step: 1513
+[2021-05-14 00:41:34,245 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:35:53 epoch 8, step 216, loss: 190.1, global_step: 1728
+[2021-05-14 00:41:34,245 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:35:53 epoch 8, step 216, loss: 190.1, global_step: 1728
+[2021-05-14 00:41:35,715 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:41:34 epoch 9, step 1, loss: 172.3, global_step: 1729
+[2021-05-14 00:41:35,715 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:41:34 epoch 9, step 1, loss: 172.3, global_step: 1729
+[2021-05-14 00:47:15,334 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:41:34 epoch 9, step 216, loss: 181.5, global_step: 1944
+[2021-05-14 00:47:15,334 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:41:34 epoch 9, step 216, loss: 181.5, global_step: 1944
+[2021-05-14 00:47:17,003 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:47:15 epoch 10, step 1, loss: 154.6, global_step: 1945
+[2021-05-14 00:47:17,003 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:47:15 epoch 10, step 1, loss: 154.6, global_step: 1945
+[2021-05-14 00:52:55,734 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:47:15 epoch 10, step 216, loss: 155.8, global_step: 2160
+[2021-05-14 00:52:55,734 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:47:15 epoch 10, step 216, loss: 155.8, global_step: 2160
+[2021-05-14 00:52:57,307 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:52:55 epoch 11, step 1, loss: 190.5, global_step: 2161
+[2021-05-14 00:52:57,307 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:52:55 epoch 11, step 1, loss: 190.5, global_step: 2161
+[2021-05-14 00:58:32,981 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:52:55 epoch 11, step 216, loss: 179.5, global_step: 2376
+[2021-05-14 00:58:32,981 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:52:55 epoch 11, step 216, loss: 179.5, global_step: 2376
+[2021-05-14 00:58:34,455 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:58:33 epoch 12, step 1, loss: 121.7, global_step: 2377
+[2021-05-14 00:58:34,455 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:58:33 epoch 12, step 1, loss: 121.7, global_step: 2377
+[2021-05-14 01:04:10,191 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:58:33 epoch 12, step 216, loss: 106.1, global_step: 2592
+[2021-05-14 01:04:10,191 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 00:58:33 epoch 12, step 216, loss: 106.1, global_step: 2592
+[2021-05-14 01:04:11,670 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:04:10 epoch 13, step 1, loss: 152.7, global_step: 2593
+[2021-05-14 01:04:11,670 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:04:10 epoch 13, step 1, loss: 152.7, global_step: 2593
+[2021-05-14 01:09:52,267 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:04:10 epoch 13, step 216, loss: 155.9, global_step: 2808
+[2021-05-14 01:09:52,267 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:04:10 epoch 13, step 216, loss: 155.9, global_step: 2808
+[2021-05-14 01:09:53,713 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:09:52 epoch 14, step 1, loss: 179.5, global_step: 2809
+[2021-05-14 01:09:53,713 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:09:52 epoch 14, step 1, loss: 179.5, global_step: 2809
+[2021-05-14 01:15:32,510 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:09:52 epoch 14, step 216, loss: 230.7, global_step: 3024
+[2021-05-14 01:15:32,510 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:09:52 epoch 14, step 216, loss: 230.7, global_step: 3024
+[2021-05-14 01:15:34,062 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:15:32 epoch 15, step 1, loss: 147.0, global_step: 3025
+[2021-05-14 01:15:34,062 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:15:32 epoch 15, step 1, loss: 147.0, global_step: 3025
+[2021-05-14 01:21:09,459 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:15:32 epoch 15, step 216, loss: 178.8, global_step: 3240
+[2021-05-14 01:21:09,459 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:15:32 epoch 15, step 216, loss: 178.8, global_step: 3240
+[2021-05-14 01:21:10,913 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:21:09 epoch 16, step 1, loss: 165.5, global_step: 3241
+[2021-05-14 01:21:10,913 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:21:09 epoch 16, step 1, loss: 165.5, global_step: 3241
+[2021-05-14 01:26:50,175 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:21:09 epoch 16, step 216, loss: 176.7, global_step: 3456
+[2021-05-14 01:26:50,175 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:21:09 epoch 16, step 216, loss: 176.7, global_step: 3456
+[2021-05-14 01:26:51,581 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:26:50 epoch 17, step 1, loss: 182.3, global_step: 3457
+[2021-05-14 01:26:51,581 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:26:50 epoch 17, step 1, loss: 182.3, global_step: 3457
+[2021-05-14 01:32:31,438 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:26:50 epoch 17, step 216, loss: 181.4, global_step: 3672
+[2021-05-14 01:32:31,438 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:26:50 epoch 17, step 216, loss: 181.4, global_step: 3672
+[2021-05-14 01:32:33,265 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:32:31 epoch 18, step 1, loss: 177.3, global_step: 3673
+[2021-05-14 01:32:33,265 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:32:31 epoch 18, step 1, loss: 177.3, global_step: 3673
+[2021-05-14 01:38:11,265 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:32:31 epoch 18, step 216, loss: 163.4, global_step: 3888
+[2021-05-14 01:38:11,265 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:32:31 epoch 18, step 216, loss: 163.4, global_step: 3888
+[2021-05-14 01:38:12,715 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:38:11 epoch 19, step 1, loss: 133.7, global_step: 3889
+[2021-05-14 01:38:12,715 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:38:11 epoch 19, step 1, loss: 133.7, global_step: 3889
+[2021-05-14 01:43:54,532 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:38:11 epoch 19, step 216, loss: 232.8, global_step: 4104
+[2021-05-14 01:43:54,532 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:38:11 epoch 19, step 216, loss: 232.8, global_step: 4104
+[2021-05-14 01:43:56,118 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:43:54 epoch 20, step 1, loss: 155.3, global_step: 4105
+[2021-05-14 01:43:56,118 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:43:54 epoch 20, step 1, loss: 155.3, global_step: 4105
+[2021-05-14 01:49:37,104 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:43:54 epoch 20, step 216, loss: 183.1, global_step: 4320
+[2021-05-14 01:49:37,104 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:43:54 epoch 20, step 216, loss: 183.1, global_step: 4320
+[2021-05-14 01:49:38,841 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:49:37 epoch 21, step 1, loss: 181.4, global_step: 4321
+[2021-05-14 01:49:38,841 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:49:37 epoch 21, step 1, loss: 181.4, global_step: 4321
+[2021-05-14 01:55:17,545 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:49:37 epoch 21, step 216, loss: 193.8, global_step: 4536
+[2021-05-14 01:55:17,545 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:49:37 epoch 21, step 216, loss: 193.8, global_step: 4536
+[2021-05-14 01:55:19,033 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:55:17 epoch 22, step 1, loss: 121.3, global_step: 4537
+[2021-05-14 01:55:19,033 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:55:17 epoch 22, step 1, loss: 121.3, global_step: 4537
+[2021-05-14 02:00:58,425 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:55:17 epoch 22, step 216, loss: 156.0, global_step: 4752
+[2021-05-14 02:00:58,425 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 01:55:17 epoch 22, step 216, loss: 156.0, global_step: 4752
+[2021-05-14 02:00:59,867 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:00:58 epoch 23, step 1, loss: 168.0, global_step: 4753
+[2021-05-14 02:00:59,867 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:00:58 epoch 23, step 1, loss: 168.0, global_step: 4753
+[2021-05-14 02:06:38,911 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:00:58 epoch 23, step 216, loss: 145.0, global_step: 4968
+[2021-05-14 02:06:38,911 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:00:58 epoch 23, step 216, loss: 145.0, global_step: 4968
+[2021-05-14 02:06:41,002 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:06:39 epoch 24, step 1, loss: 152.0, global_step: 4969
+[2021-05-14 02:06:41,002 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:06:39 epoch 24, step 1, loss: 152.0, global_step: 4969
+[2021-05-14 02:12:17,033 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:06:39 epoch 24, step 216, loss: 131.1, global_step: 5184
+[2021-05-14 02:12:17,033 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:06:39 epoch 24, step 216, loss: 131.1, global_step: 5184
+[2021-05-14 02:12:18,487 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:12:17 epoch 25, step 1, loss: 138.9, global_step: 5185
+[2021-05-14 02:12:18,487 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:12:17 epoch 25, step 1, loss: 138.9, global_step: 5185
+[2021-05-14 02:17:57,592 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:12:17 epoch 25, step 216, loss: 176.8, global_step: 5400
+[2021-05-14 02:17:57,592 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:12:17 epoch 25, step 216, loss: 176.8, global_step: 5400
+[2021-05-14 02:17:59,035 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:17:57 epoch 26, step 1, loss: 197.4, global_step: 5401
+[2021-05-14 02:17:59,035 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:17:57 epoch 26, step 1, loss: 197.4, global_step: 5401
+[2021-05-14 02:23:38,955 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:17:57 epoch 26, step 216, loss: 144.6, global_step: 5616
+[2021-05-14 02:23:38,955 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:17:57 epoch 26, step 216, loss: 144.6, global_step: 5616
+[2021-05-14 02:23:40,796 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:23:39 epoch 27, step 1, loss: 142.9, global_step: 5617
+[2021-05-14 02:23:40,796 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:23:39 epoch 27, step 1, loss: 142.9, global_step: 5617
+[2021-05-14 02:29:20,216 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:23:39 epoch 27, step 216, loss: 132.5, global_step: 5832
+[2021-05-14 02:29:20,216 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:23:39 epoch 27, step 216, loss: 132.5, global_step: 5832
+[2021-05-14 02:29:22,857 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:29:20 epoch 28, step 1, loss: 168.3, global_step: 5833
+[2021-05-14 02:29:22,857 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:29:20 epoch 28, step 1, loss: 168.3, global_step: 5833
+[2021-05-14 02:34:59,884 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:29:20 epoch 28, step 216, loss: 179.8, global_step: 6048
+[2021-05-14 02:34:59,884 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:29:20 epoch 28, step 216, loss: 179.8, global_step: 6048
+[2021-05-14 02:35:01,670 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:35:00 epoch 29, step 1, loss: 156.8, global_step: 6049
+[2021-05-14 02:35:01,670 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:35:00 epoch 29, step 1, loss: 156.8, global_step: 6049
+[2021-05-14 02:40:41,069 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:35:00 epoch 29, step 216, loss: 174.5, global_step: 6264
+[2021-05-14 02:40:41,069 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:35:00 epoch 29, step 216, loss: 174.5, global_step: 6264
+[2021-05-14 02:40:42,520 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:40:41 epoch 30, step 1, loss: 173.1, global_step: 6265
+[2021-05-14 02:40:42,520 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:40:41 epoch 30, step 1, loss: 173.1, global_step: 6265
+[2021-05-14 02:46:18,113 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:40:41 epoch 30, step 216, loss: 163.5, global_step: 6480
+[2021-05-14 02:46:18,113 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:40:41 epoch 30, step 216, loss: 163.5, global_step: 6480
+[2021-05-14 02:46:19,511 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:46:18 epoch 31, step 1, loss: 162.7, global_step: 6481
+[2021-05-14 02:46:19,511 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:46:18 epoch 31, step 1, loss: 162.7, global_step: 6481
+[2021-05-14 02:51:58,952 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:46:18 epoch 31, step 216, loss: 162.4, global_step: 6696
+[2021-05-14 02:51:58,952 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:46:18 epoch 31, step 216, loss: 162.4, global_step: 6696
+[2021-05-14 02:52:00,559 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:51:59 epoch 32, step 1, loss: 184.9, global_step: 6697
+[2021-05-14 02:52:00,559 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:51:59 epoch 32, step 1, loss: 184.9, global_step: 6697
+[2021-05-14 02:57:38,511 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:51:59 epoch 32, step 216, loss: 115.3, global_step: 6912
+[2021-05-14 02:57:38,511 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:51:59 epoch 32, step 216, loss: 115.3, global_step: 6912
+[2021-05-14 02:57:40,274 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:57:38 epoch 33, step 1, loss: 153.3, global_step: 6913
+[2021-05-14 02:57:40,274 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:57:38 epoch 33, step 1, loss: 153.3, global_step: 6913
+[2021-05-14 03:03:21,581 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:57:38 epoch 33, step 216, loss: 150.0, global_step: 7128
+[2021-05-14 03:03:21,581 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 02:57:38 epoch 33, step 216, loss: 150.0, global_step: 7128
+[2021-05-14 03:03:23,046 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:03:21 epoch 34, step 1, loss: 158.5, global_step: 7129
+[2021-05-14 03:03:23,046 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:03:21 epoch 34, step 1, loss: 158.5, global_step: 7129
+[2021-05-14 03:09:02,501 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:03:21 epoch 34, step 216, loss: 169.9, global_step: 7344
+[2021-05-14 03:09:02,501 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:03:21 epoch 34, step 216, loss: 169.9, global_step: 7344
+[2021-05-14 03:09:04,069 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:09:02 epoch 35, step 1, loss: 145.2, global_step: 7345
+[2021-05-14 03:09:04,069 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:09:02 epoch 35, step 1, loss: 145.2, global_step: 7345
+[2021-05-14 03:14:46,014 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:09:02 epoch 35, step 216, loss: 236.1, global_step: 7560
+[2021-05-14 03:14:46,014 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:09:02 epoch 35, step 216, loss: 236.1, global_step: 7560
+[2021-05-14 03:14:47,891 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:14:46 epoch 36, step 1, loss: 184.6, global_step: 7561
+[2021-05-14 03:14:47,891 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:14:46 epoch 36, step 1, loss: 184.6, global_step: 7561
+[2021-05-14 03:20:23,174 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:14:46 epoch 36, step 216, loss: 152.8, global_step: 7776
+[2021-05-14 03:20:23,174 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:14:46 epoch 36, step 216, loss: 152.8, global_step: 7776
+[2021-05-14 03:20:24,664 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:20:23 epoch 37, step 1, loss: 167.8, global_step: 7777
+[2021-05-14 03:20:24,664 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:20:23 epoch 37, step 1, loss: 167.8, global_step: 7777
+[2021-05-14 03:26:03,112 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:20:23 epoch 37, step 216, loss: 192.1, global_step: 7992
+[2021-05-14 03:26:03,112 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:20:23 epoch 37, step 216, loss: 192.1, global_step: 7992
+[2021-05-14 03:26:04,564 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:26:03 epoch 38, step 1, loss: 180.2, global_step: 7993
+[2021-05-14 03:26:04,564 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:26:03 epoch 38, step 1, loss: 180.2, global_step: 7993
+[2021-05-14 03:31:41,532 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:26:03 epoch 38, step 216, loss: 123.7, global_step: 8208
+[2021-05-14 03:31:41,532 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:26:03 epoch 38, step 216, loss: 123.7, global_step: 8208
+[2021-05-14 03:31:43,516 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:31:41 epoch 39, step 1, loss: 144.7, global_step: 8209
+[2021-05-14 03:31:43,516 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:31:41 epoch 39, step 1, loss: 144.7, global_step: 8209
+[2021-05-14 03:37:19,407 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:31:41 epoch 39, step 216, loss: 155.5, global_step: 8424
+[2021-05-14 03:37:19,407 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:31:41 epoch 39, step 216, loss: 155.5, global_step: 8424
+[2021-05-14 03:37:20,802 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:37:19 epoch 40, step 1, loss: 151.7, global_step: 8425
+[2021-05-14 03:37:20,802 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:37:19 epoch 40, step 1, loss: 151.7, global_step: 8425
+[2021-05-14 03:42:59,037 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:37:19 epoch 40, step 216, loss: 181.2, global_step: 8640
+[2021-05-14 03:42:59,037 - bilstm_crf2.py - preprocess.utils - INFO] - 2021-05-14 03:37:19 epoch 40, step 216, loss: 181.2, global_step: 8640
+[2021-05-14 12:33:31,892 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000002B0EE59C908>
+[2021-05-14 12:34:10,644 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000002774EC6E9B0>
+[2021-05-14 12:34:50,361 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000001EEEEDBDB00>
+[2021-05-14 12:34:51,720 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-14 12:34:51,720 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-14 12:35:51,769 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000001B36E8CEA20>
+[2021-05-14 12:35:53,206 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-14 12:35:53,206 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 10:59:12,775 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000001AFEEE517F0>
+[2021-05-19 10:59:14,137 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 10:59:14,137 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 10:59:48,689 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x0000023533F936D8>
+[2021-05-19 10:59:50,273 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 10:59:50,273 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 11:01:23,083 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x00000240CDB617F0>
+[2021-05-19 11:01:24,605 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 11:01:24,605 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 11:50:31,653 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x0000013F955117F0>
+[2021-05-19 11:50:33,279 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 11:50:33,279 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 12:01:02,423 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x000002824B6A1860>
+[2021-05-19 12:01:03,778 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 12:01:03,778 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 12:07:57,334 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x0000021D000017F0>
+[2021-05-19 12:07:59,134 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 12:07:59,134 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 17:58:50,163 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x00000171628D6A58>
+[2021-05-19 17:58:51,702 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 17:58:51,702 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 18:08:12,159 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x0000013A65312748>
+[2021-05-19 18:08:13,810 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 18:08:13,810 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 18:17:00,353 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x0000022516E917F0>
+[2021-05-19 18:19:09,250 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x000001CA7F7E6710>
+[2021-05-19 18:23:04,544 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x00000156E3792588>
+[2021-05-19 18:25:08,958 - model_manager.py - preprocess.utils - INFO] - <__main__.Args object at 0x0000023E7A2C2780>
+[2021-05-19 18:25:10,369 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 18:25:10,369 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
+[2021-05-19 21:53:34,542 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x000001D0C3C41AC8>

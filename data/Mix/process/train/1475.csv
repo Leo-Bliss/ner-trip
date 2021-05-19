@@ -1,0 +1,86 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+健,O,B,n,亻,jiàn
+脾,O,E,n,月,pí
+利,O,B,a,刂,lì
+湿,O,E,a,氵,shī
+，,O,S,x,UNK,UNK
+清,B-ZF,B,a,氵,qīng
+热,E-ZF,E,a,灬,rè
+止,O,S,v,止,zhǐ
+带,O,S,v,巾,dài
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+湿,B-ZH,B,z,氵,shī
+热,I-ZH,E,z,灬,rè
+下,I-ZH,B,v,一,xià
+注,E-ZH,E,v,氵,zhù
+，,O,S,x,UNK,UNK
+白,B-ZZ,B,n,白,bái
+带,I-ZZ,E,n,巾,dài
+量,I-ZZ,S,n,里,liáng
+多,E-ZZ,S,m,夕,duō
+清,B-ZF,B,a,氵,qīng
+热,E-ZF,E,a,灬,rè
+止,O,S,v,止,zhǐ
+带,O,S,v,巾,dài
+健,O,B,n,亻,jiàn
+脾,O,E,n,月,pí
+利,O,B,a,刂,lì
+湿,O,E,a,氵,shī
+ ,O,S,x,UNK,UNK
+泉,O,B,ns,水,quán
+州,O,E,ns,川,zhōu
+中,O,B,nt,丨,zhōng
+侨,O,E,nt,亻,qiáo
+(,O,S,x,UNK,UNK
+集,O,B,n,隹,jí
+团,O,E,n,囗,tuán
+),O,S,x,UNK,UNK
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+公,O,B,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

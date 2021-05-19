@@ -1,0 +1,125 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+国,O,B,n,囗,guó
+家,O,E,n,宀,jiā
+基,O,B,n,土,jī
+本,O,E,n,木,běn
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+目,O,B,n,目,mù
+录,O,E,n,彐,lù
+（,O,S,x,UNK,UNK
+2,O,B,m,UNK,UNK
+0,O,M,m,UNK,UNK
+1,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+太,O,B,nt,大,tài
+极,O,M,nt,木,jí
+集,O,M,nt,隹,jí
+团,O,E,nt,囗,tuán
+重,O,B,ns,里,zhòng
+庆,O,E,ns,广,qìng
+桐,O,B,nr,木,tóng
+君,O,M,nr,口,jūn
+阁,O,E,nr,门,gé
+药,O,B,n,艹,yào
+厂,O,E,n,厂,chǎng
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+3,O,M,m,UNK,UNK
+6,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+散,B-ZF,B,v,攵,sàn
+结,I-ZF,E,v,纟,jié
+消,I-ZF,B,n,氵,xiāo
+肿,E-ZF,E,n,月,zhǒng
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+化,O,B,n,亻,huà
+瘀,O,E,n,疒,yū
+止,B-ZF,B,v,止,zhǐ
+痛,E-ZF,E,v,疒,tòng
+。,O,S,x,UNK,UNK
+小,O,B,n,小,xiǎo
+金,O,E,n,金,jīn
+片,O,S,q,片,piàn
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+阴,O,B,n,阝,yīn
+疽,O,E,n,疒,jū
+初,O,S,f,刀,chū
+起,O,S,v,走,qǐ
+，,O,S,x,UNK,UNK
+皮,O,B,n,皮,pí
+色,O,E,n,色,sè
+不,O,S,d,一,bù
+，,O,S,x,UNK,UNK
+肿,O,S,v,月,zhǒng
+硬,O,S,a,石,yìng
+作,O,B,n,亻,zuò
+痛,O,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+多,O,B,n,夕,duō
+发,O,M,n,又,fā
+性,O,E,n,忄,xìng
+脓,O,B,n,月,nóng
+肿,O,E,n,月,zhǒng
+，,O,S,x,UNK,UNK
+瘿,O,B,n,疒,yǐng
+瘤,O,E,n,疒,liú
+，,O,S,x,UNK,UNK
+瘰,O,B,n,疒,luǒ
+疬,O,E,n,疒,lì
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+岩,O,E,n,山,yán
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+癖,O,E,n,疒,pǐ
+seg,seg,seg,seg,seg,seg

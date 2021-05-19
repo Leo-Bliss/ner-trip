@@ -1,0 +1,79 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+袋,O,S,q,衣,dài
+重,O,S,a,里,zhòng
+1,O,B,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+/,O,S,x,UNK,UNK
+次,O,S,q,欠,cì
+，,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+/,O,S,x,UNK,UNK
+日,O,S,m,日,rì
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+糖,O,B,n,米,táng
+尿,O,M,n,尸,niào
+病,O,E,n,疒,bìng
+患,O,B,n,心,huàn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+通,O,B,d,辶,tōng
+经,O,E,d,纟,jīng
+，,O,S,x,UNK,UNK
+活,B-ZF,B,vn,氵,huó
+血,E-ZF,E,vn,血,xiě
+，,O,S,x,UNK,UNK
+下,O,B,v,一,xià
+乳,O,E,v,乚,rǔ
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+神,O,B,n,礻,shén
+威,O,E,n,女,wēi
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+集,O,B,n,隹,jí
+团,O,E,n,囗,tuán
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+乳,O,B,n,乚,rǔ
+少,O,E,n,小,shǎo
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+汁,O,E,n,氵,zhī
+不,O,S,d,一,bù
+畅,O,S,a,田,chàng
+糖,O,B,n,米,táng
+尿,O,M,n,尸,niào
+病,O,E,n,疒,bìng
+患,O,B,n,心,huàn
+者,O,E,n,耂,zhě
+seg,seg,seg,seg,seg,seg

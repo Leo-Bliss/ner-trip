@@ -1,0 +1,111 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+修,O,B,nr,亻,xiū
+正,O,E,nr,止,zhèng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+集,O,B,nz,隹,jí
+团,O,M,nz,囗,tuán
+股,O,M,nz,月,gǔ
+份,O,E,nz,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+益,O,S,nr,皿,yì
+肾,O,S,n,月,shèn
+利,O,B,a,刂,lì
+湿,O,E,a,氵,shī
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,O,B,n,月,shèn
+虚,O,E,n,虍,xū
+挟,O,B,v,扌,xié
+湿,O,E,v,氵,shī
+的,O,S,uj,白,dí
+良,O,B,n,艮,liáng
+性,O,E,n,忄,xìng
+前,O,B,n,刂,qián
+列,O,M,n,刂,liè
+腺,O,E,n,月,xiàn
+增,O,B,n,土,zēng
+生,O,M,n,生,shēng
+症,O,E,n,疒,zhèng
+，,O,S,x,UNK,UNK
+症,O,B,n,疒,zhèng
+见,O,E,n,见,jiàn
+小,O,B,nr,小,xiǎo
+便,O,E,nr,亻,biàn
+淋,O,B,v,氵,lín
+漓,O,E,v,氵,lí
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,a,酉,suān
+软,E-ZZ,E,a,车,ruǎn
+，,O,S,x,UNK,UNK
+身,O,S,ng,身,shēn
+疲,O,B,a,疒,pí
+乏,B-ZZ,E,a,丿,fá
+力,E-ZZ,S,n,力,lì
+前,O,B,n,刂,qián
+列,O,M,n,刂,liè
+腺,O,E,n,月,xiàn
+增,O,B,n,土,zēng
+生,O,M,n,生,shēng
+症,O,E,n,疒,zhèng
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,B,m,UNK,UNK
+6,O,E,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,B,m,UNK,UNK
+3,O,E,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+片,O,B,n,片,piàn
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+薄,O,B,n,艹,báo
+膜,O,E,n,月,mó
+衣,O,S,n,衣,yī
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

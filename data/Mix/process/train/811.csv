@@ -1,0 +1,111 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+河,O,B,ns,氵,hé
+南,O,E,ns,十,nán
+润,O,S,v,氵,rùn
+弘,O,S,nr,弓,hóng
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+调,O,B,v,讠,tiáo
+经,O,E,v,纟,jīng
+活,B-ZF,B,vn,氵,huó
+血,E-ZF,E,vn,血,xiě
+，,O,S,x,UNK,UNK
+祛,B-ZF,B,v,礻,qū
+瘀,I-ZF,E,v,疒,yū
+生,I-ZF,B,vn,生,shēng
+新,E-ZF,E,vn,斤,xīn
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,M,n,纟,jīng
+不,I-ZZ,M,n,一,bù
+调,E-ZZ,E,n,讠,tiáo
+，,O,S,x,UNK,UNK
+经,O,B,n,纟,jīng
+期,O,E,n,月,qī
+腹,B-ZZ,B,n,月,fù
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+瘀,O,B,n,疒,yū
+血,O,E,n,血,xiě
+不,O,S,d,一,bù
+清,O,S,a,氵,qīng
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+子,O,B,nr,子,zǐ
+宫,O,E,nr,宀,gōng
+收,O,B,v,攵,shōu
+缩,O,E,v,纟,suō
+不,O,B,a,一,bù
+良,O,E,a,艮,liáng
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+瘀,O,B,n,疒,yū
+血,O,E,n,血,xiě
+不,O,S,d,一,bù
+清,O,S,a,氵,qīng
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+4,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,B,eng,UNK,UNK
+x,O,M,eng,UNK,UNK
+2,O,M,eng,UNK,UNK
+4,O,E,eng,UNK,UNK
+粒,O,S,n,米,lì
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

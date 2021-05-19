@@ -1,0 +1,115 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+偶,O,B,a,亻,ǒu
+见,O,E,a,见,jiàn
+过,O,B,l,辶,guò
+敏,O,M,l,攵,mǐn
+反,O,M,l,又,fǎn
+应,O,E,l,广,yīng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+呼,O,B,l,口,hū
+吸,O,M,l,口,xī
+道,O,E,l,辶,dào
+疾,O,B,n,疒,jí
+病,O,E,n,疒,bìng
+ ,O,S,x,UNK,UNK
+吉,O,B,nr,口,jí
+林,O,M,nr,木,lín
+敖,O,M,nr,攵,áo
+东,O,E,nr,一,dōng
+延,O,B,ns,廴,yán
+边,O,E,ns,辶,biān
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+3,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+2,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+活,B-ZF,B,l,氵,huó
+血,I-ZF,M,l,血,xiě
+化,I-ZF,M,l,亻,huà
+瘀,E-ZF,E,l,疒,yū
+，,O,S,x,UNK,UNK
+行,B-ZF,B,n,行,háng
+气,I-ZF,E,n,气,qì
+止,I-ZF,B,v,止,zhǐ
+痛,E-ZF,E,v,疒,tòng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+瘀,B-ZH,B,n,疒,yū
+血,I-ZH,E,n,血,xiě
+内,E-ZH,B,n,冂,nèi
+阻,O,E,n,阝,zǔ
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,n,大,tóu
+痛,E-ZZ,E,n,疒,tòng
+或,O,S,c,戈,huò
+胸,B-ZZ,B,n,月,xiōng
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+内,O,B,n,冂,nèi
+热,O,E,n,灬,rè
+瞀,O,S,g,目,mào
+闷,O,S,v,门,mèn
+，,O,S,x,UNK,UNK
+失,B-ZZ,B,v,大,shī
+眠,I-ZZ,E,v,目,mián
+多,I-ZZ,S,m,夕,duō
+梦,E-ZZ,S,n,木,mèng
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+心,B-ZZ,B,v,心,xīn
+悸,I-ZZ,E,v,忄,jì
+怔,I-ZZ,B,n,忄,zhēng
+忡,E-ZZ,E,n,忄,chōng
+急,O,B,a,心,jí
+躁,O,E,a,足,zào
+善,O,B,v,口,shàn
+怒,O,E,v,心,nù
+ ,O,S,x,UNK,UNK
+活,B-ZF,B,l,氵,huó
+血,I-ZF,M,l,血,xiě
+化,I-ZF,M,l,亻,huà
+瘀,E-ZF,E,l,疒,yū
+，,O,S,x,UNK,UNK
+行,B-ZF,B,n,行,háng
+气,I-ZF,E,n,气,qì
+止,I-ZF,B,v,止,zhǐ
+痛,E-ZF,E,v,疒,tòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,85 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+益,O,S,nr,皿,yì
+肺,O,S,n,月,fèi
+，,O,S,x,UNK,UNK
+益,O,B,nz,皿,yì
+精,O,E,nz,米,jīng
+助,O,B,n,力,zhù
+阳,O,E,n,阝,yáng
+，,O,S,x,UNK,UNK
+益,O,B,n,皿,yì
+气,O,E,n,气,qì
+定,O,B,n,宀,dìng
+喘,O,E,n,口,chuǎn
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+体,O,B,v,亻,tǐ
+弱,O,E,v,弓,ruò
+气,O,B,n,气,qì
+虚,O,E,n,虍,xū
+，,O,S,x,UNK,UNK
+精,B-ZZ,B,n,米,jīng
+神,I-ZZ,E,n,礻,shén
+倦,I-ZZ,B,a,亻,juàn
+怠,E-ZZ,E,a,心,dài
+，,O,S,x,UNK,UNK
+阴,O,B,nr,阝,yīn
+虚,O,E,nr,虍,xū
+咳,B-ZZ,B,v,口,ké
+嗽,E-ZZ,E,v,口,sòu
+，,O,S,x,UNK,UNK
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+阴,O,B,nr,阝,yīn
+虚,O,E,nr,虍,xū
+咳,B-ZZ,B,v,口,ké
+嗽,E-ZZ,E,v,口,sòu
+体,O,B,v,亻,tǐ
+弱,O,E,v,弓,ruò
+气,O,B,n,气,qì
+虚,O,E,n,虍,xū
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+毫,O,B,q,毛,háo
+升,O,E,q,十,shēng
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+瓶,O,B,n,瓦,píng
+装,O,E,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+2,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+苏,O,B,ns,艹,sū
+州,O,E,ns,川,zhōu
+华,O,B,nr,十,huá
+葆,O,E,nr,艹,bǎo
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

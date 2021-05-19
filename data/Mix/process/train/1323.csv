@@ -1,0 +1,105 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+厦,O,B,ns,厂,shà
+门,O,E,ns,门,mén
+中,O,B,nt,丨,zhōng
+药,O,M,nt,艹,yào
+厂,O,E,nt,厂,chǎng
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+水,O,B,n,水,shuǐ
+蜜,S-FY,M,n,虫,mì
+丸,O,E,n,丿,wán
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+9,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+大,O,S,a,大,dà
+蜜,S-FY,B,n,虫,mì
+丸,O,E,n,丿,wán
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,S,m,UNK,UNK
+丸,O,S,ng,丿,wán
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,ng,丿,wán
+重,O,B,d,里,zhòng
+约,O,E,d,纟,yuē
+1,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+温,B-ZF,B,n,氵,wēn
+经,I-ZF,M,n,纟,jīng
+散,I-ZF,M,n,攵,sàn
+寒,E-ZF,E,n,宀,hán
+，,O,S,x,UNK,UNK
+祛,O,B,v,礻,qū
+湿,O,E,v,氵,shī
+，,O,S,x,UNK,UNK
+固,O,B,a,囗,gù
+涩,O,E,a,氵,sè
+止,O,S,v,止,zhǐ
+带,O,S,v,巾,dài
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+湿,O,B,v,氵,shī
+注,O,E,v,氵,zhù
+带,O,B,v,巾,dài
+下,O,E,v,一,xià
+，,O,S,x,UNK,UNK
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,M,n,纟,jīng
+不,I-ZZ,M,n,一,bù
+调,E-ZZ,E,n,讠,tiáo
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,i,大,tóu
+晕,I-ZZ,M,i,日,yùn
+眼,I-ZZ,M,i,目,yǎn
+花,E-ZZ,E,i,艹,huā
+，,O,S,x,UNK,UNK
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+胸,B-ZZ,B,n,月,xiōng
+闷,E-ZZ,E,n,门,mèn
+seg,seg,seg,seg,seg,seg

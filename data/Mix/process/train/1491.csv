@@ -1,0 +1,157 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+铝,O,B,n,钅,lǚ
+塑,O,E,n,土,sù
+泡,O,B,n,氵,pào
+罩,O,E,n,罒,zhào
+，,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+板,O,B,n,木,bǎn
+装,O,E,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+盒,O,E,r,皿,hé
+装,O,S,n,衣,zhuāng
+3,O,S,m,UNK,UNK
+板,O,S,n,木,bǎn
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+薄,O,B,n,艹,báo
+膜,O,E,n,月,mó
+衣,O,S,n,衣,yī
+，,O,S,x,UNK,UNK
+除,O,B,t,阝,chú
+去,O,E,t,厶,qù
+薄,O,B,n,艹,báo
+膜,O,E,n,月,mó
+衣,O,S,ng,衣,yī
+后,O,S,f,口,hòu
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+显,O,S,v,日,xiǎn
+棕,O,B,n,木,zōng
+红,O,M,n,纟,hóng
+色,O,E,n,色,sè
+至,O,S,p,至,zhì
+棕,O,S,n,木,zōng
+褐,O,B,n,衤,hè
+色,O,E,n,色,sè
+；,O,S,x,UNK,UNK
+味,O,S,ng,口,wèi
+微,O,B,a,彳,wēi
+苦,O,E,a,艹,kǔ
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+舒,O,S,nr,舌,shū
+肝,O,S,n,月,gān
+解,O,B,v,角,jiě
+郁,O,E,v,阝,yù
+，,O,S,x,UNK,UNK
+活,B-ZF,B,vn,氵,huó
+血,E-ZF,E,vn,血,xiě
+解,O,B,v,角,jiě
+毒,O,E,v,母,dú
+，,O,S,x,UNK,UNK
+软,B-FJ,B,n,车,ruǎn
+坚,I-FJ,M,n,土,jiān
+散,E-FJ,M,n,攵,sàn
+结,O,E,n,纟,jié
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肝,B-ZH,B,n,月,gān
+气,I-ZH,E,n,气,qì
+郁,I-ZH,B,a,阝,yù
+结,E-ZH,E,a,纟,jié
+，,O,S,x,UNK,UNK
+毒,O,B,n,母,dú
+瘀,O,E,n,疒,yū
+互,O,B,v,二,hù
+阻,O,E,v,阝,zǔ
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+乳,O,B,n,乚,rǔ
+腺,O,E,n,月,xiàn
+增,O,B,v,土,zēng
+生,O,E,v,生,shēng
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+腺,O,M,n,月,xiàn
+炎,O,E,n,火,yán
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+江,O,B,ns,氵,jiāng
+西,O,E,ns,覀,xī
+天,O,B,nr,大,tiān
+施,O,M,nr,方,shī
+康,O,E,nr,广,kāng
+中,O,B,n,丨,zhōng
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+5,O,M,m,UNK,UNK
+3,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+s,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+板,O,S,n,木,bǎn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+慎,O,B,v,忄,shèn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

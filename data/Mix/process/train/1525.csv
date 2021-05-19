@@ -1,0 +1,114 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+调,O,B,v,讠,tiáo
+经,O,E,v,纟,jīng
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+，,O,S,x,UNK,UNK
+开,O,B,a,廾,kāi
+郁,O,E,a,阝,yù
+舒,O,B,a,舌,shū
+气,O,E,a,气,qì
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+妇,O,B,n,女,fù
+女,O,E,n,女,nǚ
+血,O,B,n,血,xiě
+虚,O,E,n,虍,xū
+气,B-ZH,B,n,气,qì
+滞,E-ZH,E,n,氵,zhì
+，,O,S,x,UNK,UNK
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+腹,B-ZZ,B,n,月,fù
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,M,n,纟,jīng
+不,I-ZZ,M,n,一,bù
+调,E-ZZ,E,n,讠,tiáo
+经,O,S,n,纟,jīng
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+，,O,S,x,UNK,UNK
+开,O,B,a,廾,kāi
+郁,O,E,a,阝,yù
+舒,O,B,a,舌,shū
+气,O,E,a,气,qì
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+妇,O,B,n,女,fù
+女,O,E,n,女,nǚ
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+每,O,B,r,母,měi
+晚,O,E,r,日,wǎn
+睡,O,B,n,目,shuì
+前,O,M,n,刂,qián
+服,O,E,n,月,fú
+8,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+或,O,S,c,戈,huò
+早,O,B,t,日,zǎo
+晚,O,E,t,日,wǎn
+各,O,B,a,口,gè
+服,O,E,a,月,fú
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+片,O,B,m,片,piàn
+芯,O,E,m,艹,xīn
+重,O,S,a,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+2,O,M,m,UNK,UNK
+6,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+陕,O,B,ns,阝,shǎn
+西,O,E,ns,覀,xī
+康,O,B,nr,广,kāng
+惠,O,E,nr,心,huì
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

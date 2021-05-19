@@ -1,0 +1,76 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+支,O,E,r,支,zhī
+装,O,S,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+毫,O,B,q,毛,háo
+升,O,E,q,十,shēng
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+通,O,B,j,辶,tōng
+化,O,E,j,亻,huà
+卫,O,B,nt,卩,wèi
+京,O,E,nt,亠,jīng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+壮,O,B,nz,士,zhuàng
+阳,O,E,nz,阝,yáng
+，,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+体,O,B,n,亻,tǐ
+虚,O,E,n,虍,xū
+、,O,S,x,UNK,UNK
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+肾,O,B,n,月,shèn
+寒,O,E,n,宀,hán
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+体,O,B,n,亻,tǐ
+虚,O,E,n,虍,xū
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,6 @@
+pip install -i https://pypi.douban.com/simple  -r requirements.txt
+
+（1）阿里云 https://mirrors.aliyun.com/pypi/simple/
+（2）豆瓣https://pypi.douban.com/simple/
+（3）清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+（4）中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/

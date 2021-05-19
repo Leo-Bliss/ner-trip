@@ -1,0 +1,162 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+太,O,B,ns,大,tài
+阳,O,E,ns,阝,yáng
+石,O,S,n,石,shí
+(,O,S,x,UNK,UNK
+唐,O,B,nr,口,táng
+山,O,E,nr,山,shān
+),O,S,x,UNK,UNK
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+2,O,B,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+(,O,S,x,UNK,UNK
+相,O,B,v,目,xiāng
+当,O,M,v,彐,dāng
+于,O,E,v,二,yú
+原,O,S,n,厂,yuán
+药,O,B,n,艹,yào
+材,O,E,n,木,cái
+4,O,B,m,UNK,UNK
+4,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+治,O,B,v,氵,zhì
+疗,O,E,v,疒,liáo
+活,B-ZF,B,l,氵,huó
+血,I-ZF,M,l,血,xiě
+化,I-ZF,M,l,亻,huà
+瘀,E-ZF,E,l,疒,yū
+，,O,S,x,UNK,UNK
+理,O,B,n,王,lǐ
+气,O,M,n,气,qì
+止,B-ZF,M,n,止,zhǐ
+痛,E-ZF,E,n,疒,tòng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+滞,I-ZH,E,n,氵,zhì
+血,I-ZH,B,n,血,xiě
+瘀,E-ZH,E,n,疒,yū
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+痛,O,B,d,疒,tòng
+经,O,E,d,纟,jīng
+ ,O,S,x,UNK,UNK
+开,O,B,v,廾,kāi
+水,O,E,v,水,shuǐ
+冲,O,B,v,冫,chōng
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+月,O,B,n,月,yuè
+经,O,E,n,纟,jīng
+来,O,B,n,木,lái
+潮,O,E,n,氵,cháo
+以,O,B,f,人,yǐ
+前,O,E,f,刂,qián
+五,O,B,t,二,wǔ
+天,O,E,t,大,tiān
+开,O,B,v,廾,kāi
+始,O,E,v,女,shǐ
+服,O,B,n,月,fú
+药,O,E,n,艹,yào
+，,O,S,x,UNK,UNK
+隔,O,B,b,阝,gé
+日,O,E,b,日,rì
+服,O,S,v,月,fú
+，,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+次,O,E,r,欠,cì
+服,O,S,vn,月,fú
+1,O,S,m,UNK,UNK
+～,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+经,O,B,n,纟,jīng
+期,O,E,n,月,qī
+开,O,B,v,廾,kāi
+始,O,E,v,女,shǐ
+后,O,S,f,口,hòu
+连,O,B,a,辶,lián
+服,O,E,a,月,fú
+两,O,B,m,一,liǎng
+日,O,E,m,日,rì
+。,O,S,x,UNK,UNK
+三,O,B,m,一,sān
+个,O,E,m,人,gè
+月,O,B,n,月,yuè
+经,O,M,n,纟,jīng
+周,O,M,n,口,zhōu
+期,O,E,n,月,qī
+为,O,S,p,丶,wéi
+一,O,S,m,一,yī
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+，,O,S,x,UNK,UNK
+糖,O,B,n,米,táng
+尿,O,M,n,尸,niào
+病,O,E,n,疒,bìng
+患,O,B,n,心,huàn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

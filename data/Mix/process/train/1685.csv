@@ -1,0 +1,83 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+北,O,B,ns,匕,běi
+京,O,E,ns,亠,jīng
+御,O,S,zg,彳,yù
+本,O,B,n,木,běn
+堂,O,E,n,土,táng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+清,B-ZF,B,l,氵,qīng
+热,I-ZF,M,l,灬,rè
+解,I-ZF,M,l,角,jiě
+毒,E-ZF,E,l,母,dú
+，,O,S,x,UNK,UNK
+燥,O,B,a,火,zào
+湿,O,E,a,氵,shī
+止,O,S,v,止,zhǐ
+痢,O,S,n,疒,lì
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+细,O,B,n,纟,xì
+菌,O,M,n,艹,jūn
+性,O,M,n,忄,xìng
+痢,O,M,n,疒,lì
+疾,O,E,n,疒,jí
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+急,O,B,n,心,jí
+性,O,E,n,忄,xìng
+肠,O,B,n,月,cháng
+炎,O,E,n,火,yán
+穿,B-FY,B,n,穴,chuān
+心,I-FY,M,n,心,xīn
+莲,E-FY,E,n,艹,lián
+苦,O,B,n,艹,kǔ
+木,O,E,n,木,mù
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+4,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+seg,seg,seg,seg,seg,seg

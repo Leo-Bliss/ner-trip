@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript" src="./jquery1.9.1.js"></script>
+  <script type="text/javascript" src="./test_data.js"></script>
+  <title>Document</title>
+  <style>
+    .list{
+      display:flex;
+    }
+    .leftList{
+      width:700px;
+      
+    }
+    .rightList{
+      width:300px;
+      padding-top:10px;
+      padding-left:10px;
+      border:0px; /*solid #999;*/
+    }
+    ul{
+      display:flex;
+      flex-wrap: wrap;
+      padding:0;
+      margin:0;
+    }
+    .left{
+      padding-top:10px;
+      padding-left:10px;
+    }
+    .right{
+      margin-top:30px;
+      margin-left:10px;
+      padding-bottom: 30px;
+    }
+    li{
+      display:flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      
+      height:30px;
+      list-style:none; 
+      border:1px solid #000;
+      margin:5px 0 0 5px;
+    }
+    span{
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="list">
+    <div class="leftList">
+      <span>内容</span>
+      <ul class="left">
+        
+      </ul>
+    </div>
+    <div class="rightList">
+      <span>实体类别</span>
+      <ul class="right">
+        
+      </ul>
+    </div>
+  </div>
+  
+</body>
+<script>
+
+  for (let i = 0; i <rightdata.length ; i++) {
+    $(".right").append(`<li style="background-color:${rightdata[i].color};"><span>${rightdata[i].text}</span></li>`);
+  }
+  for (let k = 0;k < leftdata.length; k++) {
+    $(".left").append(`<li style="background-color:${leftdata[k].color};"><span>${leftdata[k].text}</span></li>`);
+  }
+</script>
+ 
+
+</html>

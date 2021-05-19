@@ -1,0 +1,129 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+乙,O,B,n,乙,yǐ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+",",O,S,x,UNK,UNK
+中,O,B,n,丨,zhōng
+药,O,E,n,艹,yào
+保,O,B,v,亻,bǎo
+护,O,E,v,扌,hù
+品,O,B,n,口,pǐn
+种,O,E,n,禾,zhǒng
+二,O,B,b,二,èr
+级,O,E,b,纟,jí
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+血,I-ZH,E,n,血,xiě
+两,I-ZH,S,m,一,liǎng
+虚,E-ZH,S,n,虍,xū
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+血,I-ZH,E,n,血,xiě
+两,I-ZH,S,m,一,liǎng
+虚,E-ZH,S,n,虍,xū
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,i,大,tóu
+晕,I-ZZ,M,i,日,yùn
+目,I-ZZ,M,i,目,mù
+眩,E-ZZ,E,i,目,xuàn
+，,O,S,x,UNK,UNK
+心,B-ZZ,B,v,心,xīn
+悸,I-ZZ,E,v,忄,jì
+失,I-ZZ,B,v,大,shī
+眠,E-ZZ,E,v,目,mián
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+食,B-ZZ,B,l,飠,shí
+欲,I-ZZ,M,l,欠,yù
+不,I-ZZ,M,l,一,bù
+振,E-ZZ,E,l,扌,zhèn
+及,O,S,c,又,jí
+贫,O,B,n,贝,pín
+血,O,E,n,血,xiě
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+4,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+山,O,B,ns,山,shān
+东,O,E,ns,一,dōng
+东,O,B,ns,一,dōng
+阿,O,E,ns,阝,ā
+阿,B-FY,B,n,阝,ā
+胶,E-FY,E,n,月,jiāo
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+开,O,B,v,廾,kāi
+水,O,E,v,水,shuǐ
+冲,O,B,v,冫,chōng
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+(,O,S,x,UNK,UNK
+1,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+),O,S,x,UNK,UNK
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+4,O,B,m,UNK,UNK
+8,O,E,m,UNK,UNK
+个,O,S,m,人,gè
+月,O,S,m,月,yuè
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

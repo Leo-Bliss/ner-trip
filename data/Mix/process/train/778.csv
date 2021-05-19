@@ -1,0 +1,122 @@
+word,label,bound,flag,radical,pinyin
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+4,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+(,O,S,x,UNK,UNK
+薄,O,B,n,艹,báo
+膜,O,E,n,月,mó
+衣,O,B,n,衣,yī
+片,O,E,n,片,piàn
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+陕,O,B,ns,阝,shǎn
+西,O,E,ns,覀,xī
+康,O,B,nr,广,kāng
+惠,O,E,nr,心,huì
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+盆,O,B,n,皿,pén
+腔,O,M,n,月,qiāng
+炎,O,E,n,火,yán
+，,O,S,x,UNK,UNK
+症,O,B,n,疒,zhèng
+见,O,E,n,见,jiàn
+带,B-ZZ,S,v,巾,dài
+下,I-ZZ,B,v,一,xià
+量,I-ZZ,E,v,里,liáng
+多,E-ZZ,S,m,夕,duō
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+下,O,B,n,一,xià
+腹,O,E,n,月,fù
+疼,B-ZZ,B,n,疒,téng
+痛,E-ZZ,E,n,疒,tòng
+等,O,S,u,竹,děng
+症,O,S,ng,疒,zhèng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+3,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+活,B-ZF,B,l,氵,huó
+血,I-ZF,M,l,血,xiě
+化,I-ZF,M,l,亻,huà
+瘀,E-ZF,E,l,疒,yū
+，,O,S,x,UNK,UNK
+清,B-ZF,B,a,氵,qīng
+利,I-ZF,E,a,刂,lì
+湿,I-ZF,B,z,氵,shī
+热,E-ZF,E,z,灬,rè
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+滞,I-ZH,E,n,氵,zhì
+血,I-ZH,B,n,血,xiě
+瘀,E-ZH,E,n,疒,yū
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+湿,B-ZH,B,z,氵,shī
+热,I-ZH,E,z,灬,rè
+蕴,E-ZH,B,v,艹,yùn
+结,O,E,v,纟,jié
+之,O,S,u,丶,zhī
+盆,O,B,n,皿,pén
+腔,O,M,n,月,qiāng
+炎,O,E,n,火,yán
+，,O,S,x,UNK,UNK
+症,O,B,n,疒,zhèng
+见,O,E,n,见,jiàn
+带,B-ZZ,S,v,巾,dài
+下,I-ZZ,B,v,一,xià
+量,I-ZZ,E,v,里,liáng
+多,E-ZZ,S,m,夕,duō
+，,O,S,x,UNK,UNK
+下,O,B,n,一,xià
+腹,O,E,n,月,fù
+疼,B-ZZ,B,n,疒,téng
+痛,E-ZZ,E,n,疒,tòng
+seg,seg,seg,seg,seg,seg

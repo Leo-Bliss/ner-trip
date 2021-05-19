@@ -1,0 +1,76 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+(,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+2,O,B,m,UNK,UNK
+0,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,q,丿,wán
+重,O,S,a,里,zhòng
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,B-ZF,B,n,衤,bǔ
+益,I-ZF,E,n,皿,yì
+气,I-ZF,B,n,气,qì
+血,E-ZF,E,n,血,xiě
+，,O,S,x,UNK,UNK
+祛,B-ZF,B,v,礻,qū
+瘀,I-ZF,E,v,疒,yū
+生,I-ZF,B,vn,生,shēng
+新,E-ZF,E,vn,斤,xīn
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+血,I-ZH,E,n,血,xiě
+两,I-ZH,S,m,一,liǎng
+虚,E-ZH,S,d,虍,xū
+兼,O,S,v,丷,jiān
+血,O,B,n,血,xiě
+瘀,O,E,n,疒,yū
+证,O,S,n,讠,zhèng
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+腹,B-ZZ,B,n,月,fù
+痛,E-ZZ,E,n,疒,tòng
+ ,O,S,x,UNK,UNK
+株,O,B,ns,木,zhū
+洲,O,E,ns,氵,zhōu
+千,O,B,n,十,qiān
+金,O,E,n,金,jīn
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

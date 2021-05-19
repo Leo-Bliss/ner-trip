@@ -1,0 +1,99 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+凉,B-ZF,B,n,冫,liáng
+血,I-ZF,E,n,血,xiě
+止,I-ZF,B,v,止,zhǐ
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+凉,B-ZF,B,n,冫,liáng
+血,I-ZF,E,n,血,xiě
+止,I-ZF,B,v,止,zhǐ
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+月,O,B,n,月,yuè
+经,O,E,n,纟,jīng
+量,O,S,n,里,liáng
+多,O,S,m,夕,duō
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+3,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+(,O,S,x,UNK,UNK
+糖,O,B,n,米,táng
+衣,O,E,n,衣,yī
+),O,S,x,UNK,UNK
+;,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+4,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+(,O,S,x,UNK,UNK
+薄,O,B,n,艹,báo
+膜,O,E,n,月,mó
+衣,O,S,n,衣,yī
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+江,O,B,ns,氵,jiāng
+西,O,E,ns,覀,xī
+博,O,B,n,十,bó
+士,O,E,n,士,shì
+达,O,S,v,辶,dá
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,l,月,yǒu
+限,O,M,l,阝,xiàn
+责,O,M,l,贝,zé
+任,O,E,l,亻,rèn
+公,O,B,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+次,O,E,r,欠,cì
+4,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+每,O,B,r,母,měi
+日,O,E,r,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
