@@ -1,0 +1,139 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+足,O,S,a,足,zú
+软,O,S,a,车,ruǎn
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,n,大,tóu
+晕,I-ZZ,E,n,日,yùn
+耳,I-ZZ,B,v,耳,ěr
+鸣,E-ZZ,E,v,鸟,míng
+，,O,S,x,UNK,UNK
+眼,O,B,n,目,yǎn
+花,O,E,n,艹,huā
+心,B-ZZ,B,v,心,xīn
+悸,E-ZZ,E,v,忄,jì
+ ,O,S,x,UNK,UNK
+3,O,B,m,UNK,UNK
+6,O,E,m,UNK,UNK
+个,O,S,m,人,gè
+月,O,S,m,月,yuè
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+、,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+如,O,S,v,女,rú
+与,O,S,p,一,yǔ
+其,O,B,r,八,qí
+他,O,E,r,亻,tā
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+同,O,B,c,口,tóng
+时,O,E,c,日,shí
+使,O,B,v,亻,shǐ
+用,O,E,v,用,yòng
+可,O,B,v,口,kě
+能,O,E,v,月,néng
+会,O,S,v,人,huì
+发,O,B,v,又,fā
+生,O,E,v,生,shēng
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+相,O,B,l,目,xiāng
+互,O,M,l,二,hù
+作,O,M,l,亻,zuò
+用,O,E,l,用,yòng
+，,O,S,x,UNK,UNK
+详,O,B,v,讠,xiáng
+情,O,M,v,忄,qíng
+请,O,E,v,讠,qǐng
+咨,O,B,vn,口,zī
+询,O,E,vn,讠,xún
+医,O,B,n,匚,yī
+师,O,E,n,巾,shī
+或,O,S,c,戈,huò
+药,O,B,n,艹,yào
+师,O,E,n,巾,shī
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+2,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+强,O,B,v,弓,qiáng
+身,O,E,v,身,shēn
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+洛,O,B,ns,氵,luò
+阳,O,E,ns,阝,yáng
+远,O,B,ns,辶,yuǎn
+洋,O,E,ns,氵,yáng
+生,O,B,n,生,shēng
+物,O,M,n,牜,wù
+制,O,M,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

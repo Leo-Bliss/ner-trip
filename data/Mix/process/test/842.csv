@@ -1,0 +1,114 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,S,zg,母,měi
+袋,O,B,n,衣,dài
+装,O,E,n,衣,zhuāng
+5,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+吉,O,B,nr,口,jí
+林,O,M,nr,木,lín
+敖,O,M,nr,攵,áo
+东,O,E,nr,一,dōng
+集,O,B,n,隹,jí
+团,O,E,n,囗,tuán
+力,O,B,n,力,lì
+源,O,E,n,氵,yuán
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+，,O,S,x,UNK,UNK
+益,O,S,nr,皿,yì
+肾,O,S,n,月,shèn
+助,O,S,v,力,zhù
+脾,O,S,n,月,pí
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+血,I-ZH,E,n,血,xiě
+两,I-ZH,S,m,一,liǎng
+亏,E-ZH,S,v,二,kuī
+，,O,S,x,UNK,UNK
+崩,O,B,v,山,bēng
+漏,O,E,v,氵,lòu
+下,O,B,v,一,xià
+血,O,E,v,血,xiě
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+体,O,B,n,亻,tǐ
+虚,O,E,n,虍,xū
+羸,O,B,z,羊,léi
+弱,O,E,z,弓,ruò
+，,O,S,x,UNK,UNK
+血,O,B,n,血,xiě
+小,O,M,n,小,xiǎo
+板,O,E,n,木,bǎn
+减,O,B,v,冫,jiǎn
+少,O,E,v,小,shǎo
+及,O,S,c,又,jí
+贫,O,B,n,贝,pín
+血,O,E,n,血,xiě
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+气,O,E,n,气,qì
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+，,O,S,x,UNK,UNK
+益,O,S,nr,皿,yì
+肾,O,S,n,月,shèn
+助,O,S,v,力,zhù
+脾,O,S,n,月,pí
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+血,O,B,n,血,xiě
+液,O,E,n,氵,yè
+疾,O,B,n,疒,jí
+病,O,E,n,疒,bìng
+类,O,S,q,米,lèi
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+白,O,B,n,白,bái
+细,O,M,n,纟,xì
+胞,O,E,n,月,bāo
+减,O,B,v,冫,jiǎn
+少,O,E,v,小,shǎo
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

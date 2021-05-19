@@ -1,0 +1,114 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+胶,O,B,n,月,jiāo
+囊,O,M,n,口,náng
+剂,O,E,n,刂,jì
+，,O,S,x,UNK,UNK
+内,O,B,n,冂,nèi
+容,O,E,n,宀,róng
+物,O,S,ng,牜,wù
+为,O,S,p,丶,wéi
+淡,O,B,n,氵,dàn
+黄,O,M,n,黄,huáng
+色,O,E,n,色,sè
+至,O,S,p,至,zhì
+棕,O,S,n,木,zōng
+褐,O,B,n,衤,hè
+色,O,E,n,色,sè
+的,O,S,uj,白,dí
+粉,O,B,n,米,fěn
+末,O,E,n,木,mò
+，,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+有,O,S,v,月,yǒu
+较,O,B,a,车,jiào
+强,O,E,a,弓,qiáng
+的,O,S,uj,白,dí
+引,O,B,n,弓,yǐn
+湿,O,M,n,氵,shī
+性,O,E,n,忄,xìng
+；,O,S,x,UNK,UNK
+气,O,B,n,气,qì
+香,O,E,n,香,xiāng
+，,O,S,x,UNK,UNK
+味,O,B,n,口,wèi
+苦,O,E,n,艹,kǔ
+、,O,S,x,UNK,UNK
+甘,O,S,nr,甘,gān
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+4,O,M,m,UNK,UNK
+8,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+3,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+粒,O,S,n,米,lì
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+ ,O,S,x,UNK,UNK
+瘀,B-ZH,B,n,疒,yū
+血,I-ZH,E,n,血,xiě
+阻,E-ZH,B,n,阝,zǔ
+络,O,E,n,纟,luò
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+乳,B-ZZ,B,n,乚,rǔ
+房,I-ZZ,E,n,户,fáng
+胀,I-ZZ,B,v,月,zhàng
+痛,E-ZZ,E,v,疒,tòng
+瘀,B-ZH,B,n,疒,yū
+血,I-ZH,E,n,血,xiě
+阻,E-ZH,B,n,阝,zǔ
+络,O,E,n,纟,luò
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+乳,B-ZZ,B,n,乚,rǔ
+房,I-ZZ,E,n,户,fáng
+胀,I-ZZ,B,v,月,zhàng
+痛,E-ZZ,E,v,疒,tòng
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+癖,O,E,n,疒,pǐ
+，,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+房,O,E,n,户,fáng
+肿,O,B,n,月,zhǒng
+块,O,E,n,土,kuài
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+乳,O,B,n,乚,rǔ
+腺,O,E,n,月,xiàn
+增,O,B,v,土,zēng
+生,O,E,v,生,shēng
+病,O,S,n,疒,bìng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,x,UNK,UNK
+—,O,S,x,UNK,UNK
+4,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

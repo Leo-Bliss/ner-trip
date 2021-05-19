@@ -1,0 +1,128 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+杨,O,B,nr,木,yáng
+凌,O,E,nr,冫,líng
+生,O,B,n,生,shēng
+物,O,M,n,牜,wù
+医,O,M,n,匚,yī
+药,O,E,n,艹,yào
+科,O,B,n,禾,kē
+技,O,M,n,扌,jì
+股,O,M,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+&,O,S,x,UNK,UNK
+t,O,B,eng,UNK,UNK
+i,O,M,eng,UNK,UNK
+m,O,M,eng,UNK,UNK
+e,O,M,eng,UNK,UNK
+s,O,E,eng,UNK,UNK
+;,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+袋,O,S,q,衣,dài
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+如,O,S,v,女,rú
+与,O,S,p,一,yǔ
+其,O,B,r,八,qí
+他,O,E,r,亻,tā
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+同,O,B,c,口,tóng
+时,O,E,c,日,shí
+使,O,B,v,亻,shǐ
+用,O,E,v,用,yòng
+可,O,B,v,口,kě
+能,O,E,v,月,néng
+会,O,S,v,人,huì
+发,O,B,v,又,fā
+生,O,E,v,生,shēng
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+相,O,B,l,目,xiāng
+互,O,M,l,二,hù
+作,O,M,l,亻,zuò
+用,O,E,l,用,yòng
+，,O,S,x,UNK,UNK
+详,O,B,v,讠,xiáng
+情,O,M,v,忄,qíng
+请,O,E,v,讠,qǐng
+咨,O,B,vn,口,zī
+询,O,E,vn,讠,xún
+医,O,B,n,匚,yī
+师,O,E,n,巾,shī
+或,O,S,c,戈,huò
+药,O,B,n,艹,yào
+师,O,E,n,巾,shī
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+开,O,B,v,廾,kāi
+水,O,E,v,水,shuǐ
+冲,O,B,v,冫,chōng
+服,O,E,v,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+祛,B-ZF,B,v,礻,qū
+瘀,I-ZF,E,v,疒,yū
+生,I-ZF,B,vn,生,shēng
+新,E-ZF,E,vn,斤,xīn
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+血,O,B,n,血,xiě
+瘀,O,E,n,疒,yū
+腹,B-ZZ,B,n,月,fù
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+恶,O,B,v,心,è
+露,O,E,v,雨,lòu
+不,O,B,d,一,bù
+尽,O,E,d,尸,jìn
+ ,O,S,x,UNK,UNK
+忌,O,B,v,心,jì
+食,O,E,v,飠,shí
+生,O,B,vn,生,shēng
+冷,O,E,vn,冫,lěng
+之,O,B,r,丶,zhī
+物,O,E,r,牜,wù
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

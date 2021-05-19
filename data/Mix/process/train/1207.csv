@@ -1,0 +1,221 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+益,O,B,n,皿,yì
+气,O,E,n,气,qì
+助,O,B,n,力,zhù
+阳,O,E,n,阝,yáng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+益,O,B,n,皿,yì
+气,O,E,n,气,qì
+助,O,B,n,力,zhù
+阳,O,E,n,阝,yáng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+吉,O,B,ns,口,jí
+林,O,M,ns,木,lín
+省,O,E,ns,目,shěng
+辉,O,B,ns,车,huī
+南,O,E,ns,十,nán
+天,O,B,nr,大,tiān
+宇,O,E,nr,宀,yǔ
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+如,O,S,v,女,rú
+与,O,S,p,一,yǔ
+其,O,B,r,八,qí
+他,O,E,r,亻,tā
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+同,O,B,c,口,tóng
+时,O,E,c,日,shí
+使,O,B,v,亻,shǐ
+用,O,E,v,用,yòng
+可,O,B,v,口,kě
+能,O,E,v,月,néng
+会,O,S,v,人,huì
+发,O,B,v,又,fā
+生,O,E,v,生,shēng
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+相,O,B,l,目,xiāng
+互,O,M,l,二,hù
+作,O,M,l,亻,zuò
+用,O,E,l,用,yòng
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+详,O,B,v,讠,xiáng
+情,O,M,v,忄,qíng
+请,O,E,v,讠,qǐng
+咨,O,B,vn,口,zī
+询,O,E,vn,讠,xún
+医,O,B,n,匚,yī
+师,O,E,n,巾,shī
+或,O,S,c,戈,huò
+药,O,B,n,艹,yào
+师,O,E,n,巾,shī
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,n,母,měi
+粒,O,E,n,米,lì
+装,O,S,n,衣,zhuāng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+3,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+、,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+忌,O,S,v,心,jì
+辛,O,B,z,辛,xīn
+辣,O,E,z,辛,là
+、,O,S,x,UNK,UNK
+生,O,B,vn,生,shēng
+冷,O,E,vn,冫,lěng
+、,O,S,x,UNK,UNK
+油,S-FY,B,n,氵,yóu
+腻,O,E,n,月,nì
+食,O,B,n,飠,shí
+物,O,E,n,牜,wù
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+益,O,B,n,皿,yì
+气,O,E,n,气,qì
+助,O,B,n,力,zhù
+阳,O,E,n,阝,yáng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+阳,I-ZH,E,n,阝,yáng
+不,I-ZH,B,a,一,bù
+足,E-ZH,E,a,足,zú
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+的,O,S,uj,白,dí
+神,B-ZZ,B,a,礻,shén
+倦,I-ZZ,E,a,亻,juàn
+乏,I-ZZ,B,a,丿,fá
+力,E-ZZ,E,a,力,lì
+，,O,S,x,UNK,UNK
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+腿,B-ZZ,B,n,月,tuǐ
+软,E-ZZ,E,n,车,ruǎn
+，,O,S,x,UNK,UNK
+耳,B-ZZ,B,v,耳,ěr
+鸣,E-ZZ,E,v,鸟,míng
+自,B-ZZ,B,n,自,zì
+汗,E-ZZ,E,n,氵,hàn
+ ,O,S,x,UNK,UNK
+益,O,B,n,皿,yì
+气,O,E,n,气,qì
+壮,O,B,nz,士,zhuàng
+阳,O,E,nz,阝,yáng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+气,I-ZH,E,n,气,qì
+不,I-ZH,B,a,一,bù
+足,E-ZH,E,a,足,zú
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+的,O,S,uj,白,dí
+神,B-ZZ,B,a,礻,shén
+倦,I-ZZ,E,a,亻,juàn
+乏,I-ZZ,B,a,丿,fá
+力,E-ZZ,E,a,力,lì
+，,O,S,x,UNK,UNK
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+腿,B-ZZ,B,n,月,tuǐ
+软,E-ZZ,E,n,车,ruǎn
+，,O,S,x,UNK,UNK
+耳,B-ZZ,B,v,耳,ěr
+鸣,E-ZZ,E,v,鸟,míng
+自,B-ZZ,B,n,自,zì
+汗,E-ZZ,E,n,氵,hàn
+。,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+盒,O,S,q,皿,hé
+一,O,S,m,一,yī
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+春,O,B,nr,日,chūn
+夏,O,M,nr,夂,xià
+季,O,E,nr,子,jì
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+秋,O,B,t,禾,qiū
+冬,O,M,t,夂,dōng
+季,O,E,t,子,jì
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+粒,O,S,n,米,lì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+儿,O,B,n,儿,ér
+童,O,E,n,立,tóng
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,104 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+8,O,S,x,UNK,UNK
+－,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+丸,O,S,ng,丿,wán
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+西,O,B,ns,覀,xī
+藏,O,E,ns,艹,cáng
+昌,O,B,ns,日,chāng
+都,O,E,ns,阝,dū
+藏,O,S,j,艹,cáng
+药,O,B,n,艹,yào
+厂,O,E,n,厂,chǎng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,O,B,n,月,shèn
+炎,O,E,n,火,yán
+，,O,S,x,UNK,UNK
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,n,酉,suān
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+尿,B-ZZ,B,n,尸,niào
+频,E-ZZ,E,n,页,pín
+，,O,S,x,UNK,UNK
+尿,B-ZZ,B,v,尸,niào
+闭,E-ZZ,E,v,门,bì
+，,O,S,x,UNK,UNK
+血,O,B,n,血,xiě
+尿,O,E,n,尸,niào
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+尿,O,B,n,尸,niào
+道,O,E,n,辶,dào
+结,O,B,n,纟,jié
+石,O,E,n,石,shí
+等,O,S,u,竹,děng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,q,丿,wán
+重,O,S,a,里,zhòng
+2,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+清,O,S,a,氵,qīng
+肾,O,S,n,月,shèn
+热,O,S,a,灬,rè
+，,O,S,x,UNK,UNK
+利,O,B,n,刂,lì
+尿,O,E,n,尸,niào
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,O,B,n,月,shèn
+炎,O,E,n,火,yán
+、,O,S,x,UNK,UNK
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,n,酉,suān
+痛,E-ZZ,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+尿,B-ZZ,B,n,尸,niào
+频,E-ZZ,E,n,页,pín
+或,O,S,c,戈,huò
+尿,B-ZZ,B,v,尸,niào
+闭,E-ZZ,E,v,门,bì
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+血,O,B,n,血,xiě
+尿,O,E,n,尸,niào
+，,O,S,x,UNK,UNK
+尿,O,B,n,尸,niào
+道,O,E,n,辶,dào
+，,O,S,x,UNK,UNK
+结,O,B,n,纟,jié
+石,O,E,n,石,shí
+seg,seg,seg,seg,seg,seg

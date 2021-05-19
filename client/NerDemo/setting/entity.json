@@ -1,0 +1,25 @@
+{
+  "entity-nickname": {
+    "方药": "FY",
+    "方剂": "FJ",
+    "证候": "ZH",
+    "治法": "ZF",
+    "舌象": "SX",
+    "脉象": "MX",
+    "症状": "ZZ",
+    "其他": "O"},
+  "nickname-entity":{
+    "FY": "方药", "FJ": "方剂",
+    "ZH": "证候", "ZF": "治法",
+    "MX": "脉象", "SX": "舌象",
+    "ZZ": "症状", "O": "其他"},
+  "entity-color":{
+    "FY": "red",
+    "FJ": "blue",
+    "ZH": "yellow",
+    "ZF": "green",
+    "MX": "Cyan",
+    "SX": "CadetBlue",
+    "ZZ": "MediumOrchid",
+    "O": "rgb(193,205,205)"}
+}

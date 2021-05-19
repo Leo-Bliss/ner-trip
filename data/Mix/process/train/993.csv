@@ -1,0 +1,19 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+棕,O,B,n,木,zōng
+黄,O,M,n,黄,huáng
+色,O,E,n,色,sè
+水,O,B,n,水,shuǐ
+丸,O,E,n,丿,wán
+，,O,S,x,UNK,UNK
+味,O,B,n,口,wèi
+苦,O,E,n,艹,kǔ
+，,O,S,x,UNK,UNK
+微,O,B,n,彳,wēi
+酸,O,E,n,酉,suān
+，,O,S,x,UNK,UNK
+涩,O,S,a,氵,sè
+seg,seg,seg,seg,seg,seg

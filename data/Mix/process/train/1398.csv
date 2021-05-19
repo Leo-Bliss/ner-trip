@@ -1,0 +1,102 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+～,O,S,x,UNK,UNK
+4,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+",",O,S,x,UNK,UNK
+外,O,B,n,夕,wài
+用,O,E,n,用,yòng
+药,O,B,n,艹,yào
+物,O,E,n,牜,wù
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+疏,B-ZF,B,n,疋,shū
+肝,I-ZF,M,n,月,gān
+解,I-ZF,M,n,角,jiě
+郁,E-ZF,E,n,阝,yù
+，,O,S,x,UNK,UNK
+清,B-ZF,S,a,氵,qīng
+肝,I-ZF,S,n,月,gān
+泻,I-ZF,B,n,氵,xiè
+火,E-ZF,E,n,火,huǒ
+疏,B-ZF,B,n,疋,shū
+肝,I-ZF,M,n,月,gān
+解,I-ZF,M,n,角,jiě
+郁,E-ZF,E,n,阝,yù
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+清,B-ZF,S,a,氵,qīng
+肝,I-ZF,S,n,月,gān
+泻,I-ZF,B,n,氵,xiè
+火,E-ZF,E,n,火,huǒ
+，,O,S,x,UNK,UNK
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+调,O,B,v,讠,tiáo
+经,O,E,v,纟,jīng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肝,O,B,n,月,gān
+郁,O,E,n,阝,yù
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+月,O,B,n,月,yuè
+经,O,E,n,纟,jīng
+失,O,B,v,大,shī
+调,O,E,v,讠,tiáo
+，,O,S,x,UNK,UNK
+痛,O,B,d,疒,tòng
+经,O,E,d,纟,jīng
+，,O,S,x,UNK,UNK
+乳,B-ZZ,B,n,乚,rǔ
+房,I-ZZ,E,n,户,fáng
+胀,I-ZZ,B,v,月,zhàng
+痛,E-ZZ,E,v,疒,tòng
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+广,O,B,ns,广,guǎng
+西,O,E,ns,覀,xī
+华,O,S,ns,十,huá
+天,O,B,nz,大,tiān
+宝,O,E,nz,宀,bǎo
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

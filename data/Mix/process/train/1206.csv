@@ -1,0 +1,125 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+神,O,B,l,礻,shén
+经,O,M,l,纟,jīng
+衰,O,M,l,衣,shuāi
+弱,O,E,l,弓,ruò
+，,O,S,x,UNK,UNK
+改,O,B,v,攵,gǎi
+善,O,E,v,口,shàn
+健,B-ZZ,B,a,亻,jiàn
+忘,E-ZZ,E,a,心,wàng
+失,B-ZZ,B,v,大,shī
+眠,E-ZZ,E,v,目,mián
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,n,大,tóu
+晕,I-ZZ,E,n,日,yùn
+心,I-ZZ,B,v,心,xīn
+悸,E-ZZ,E,v,忄,jì
+，,O,S,x,UNK,UNK
+身,O,B,v,身,shēn
+倦,O,E,v,亻,juàn
+无,O,B,n,一,wú
+力,O,E,n,力,lì
+，,O,S,x,UNK,UNK
+体,O,B,n,亻,tǐ
+虚,O,E,n,虍,xū
+自,B-ZZ,B,n,自,zì
+汗,E-ZZ,E,n,氵,hàn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,n,母,měi
+粒,O,E,n,米,lì
+装,O,S,n,衣,zhuāng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+3,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+气,B-ZH,M,n,气,qì
+血,E-ZH,E,n,血,xiě
+，,O,S,x,UNK,UNK
+健,O,B,n,亻,jiàn
+脑,O,E,n,月,nǎo
+安,O,B,nr,宀,ān
+神,O,E,nr,礻,shén
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+神,O,B,l,礻,shén
+经,O,M,l,纟,jīng
+衰,O,M,l,衣,shuāi
+弱,O,E,l,弓,ruò
+，,O,S,x,UNK,UNK
+健,B-ZZ,B,a,亻,jiàn
+忘,E-ZZ,E,a,心,wàng
+失,B-ZZ,B,v,大,shī
+眠,E-ZZ,E,v,目,mián
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,n,大,tóu
+晕,I-ZZ,E,n,日,yùn
+心,I-ZZ,B,v,心,xīn
+悸,E-ZZ,E,v,忄,jì
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+身,O,B,v,身,shēn
+倦,O,E,v,亻,juàn
+无,O,B,n,一,wú
+力,O,E,n,力,lì
+，,O,S,x,UNK,UNK
+体,O,B,n,亻,tǐ
+虚,O,E,n,虍,xū
+自,B-ZZ,B,n,自,zì
+汗,E-ZZ,E,n,氵,hàn
+，,O,S,x,UNK,UNK
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+ ,O,S,x,UNK,UNK
+贵,O,B,ns,贝,guì
+州,O,E,ns,川,zhōu
+天,O,B,nz,大,tiān
+安,O,E,nz,宀,ān
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

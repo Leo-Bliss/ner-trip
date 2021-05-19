@@ -1,0 +1,113 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+成,O,B,ns,戈,chéng
+都,O,E,ns,阝,dū
+森,O,B,n,木,sēn
+科,O,E,n,禾,kē
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+夏,B-FY,B,n,夂,xià
+枯,I-FY,M,n,木,kū
+草,E-FY,E,n,艹,cǎo
+片,O,S,q,片,piàn
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+5,O,M,m,UNK,UNK
+1,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+夏,B-FY,B,n,夂,xià
+枯,I-FY,M,n,木,kū
+草,E-FY,E,n,艹,cǎo
+片,O,B,b,片,piàn
+清,O,E,b,氵,qīng
+火,O,S,n,火,huǒ
+，,O,S,x,UNK,UNK
+散,O,B,v,攵,sàn
+结,O,E,v,纟,jié
+，,O,S,x,UNK,UNK
+消,O,B,n,氵,xiāo
+肿,O,E,n,月,zhǒng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+火,O,B,n,火,huǒ
+热,O,E,n,灬,rè
+内,O,B,n,冂,nèi
+蕴,O,E,n,艹,yùn
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+头,B-ZZ,B,n,大,tóu
+痛,E-ZZ,E,n,疒,tòng
+、,O,S,x,UNK,UNK
+眩,B-ZZ,B,v,目,xuàn
+晕,E-ZZ,E,v,日,yùn
+、,O,S,x,UNK,UNK
+瘰,O,B,n,疒,luǒ
+疬,O,E,n,疒,lì
+、,O,S,x,UNK,UNK
+瘿,O,B,n,疒,yǐng
+瘤,O,E,n,疒,liú
+、,O,S,x,UNK,UNK
+乳,O,S,ng,乚,rǔ
+痈,O,S,n,疒,yōng
+肿,B-ZZ,B,n,月,zhǒng
+痛,E-ZZ,E,n,疒,tòng
+；,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+甲,O,B,l,田,jiǎ
+状,O,M,l,犬,zhuàng
+腺,O,M,l,月,xiàn
+肿,O,E,l,月,zhǒng
+大,O,S,a,大,dà
+、,O,S,x,UNK,UNK
+淋,O,B,n,氵,lín
+巴,O,M,n,巳,bā
+结,O,M,n,纟,jié
+核,O,E,n,木,hé
+、,O,S,x,UNK,UNK
+乳,O,B,n,乚,rǔ
+腺,O,E,n,月,xiàn
+增,O,B,v,土,zēng
+生,O,E,v,生,shēng
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

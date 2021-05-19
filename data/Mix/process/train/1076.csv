@@ -1,0 +1,172 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+滋,O,B,n,氵,zī
+阴,O,E,n,阝,yīn
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+，,O,S,x,UNK,UNK
+填,O,S,v,土,tián
+精,O,B,n,米,jīng
+益,O,E,n,皿,yì
+髓,O,S,g,骨,suǐ
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+滋,O,B,n,氵,zī
+阴,O,E,n,阝,yīn
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+，,O,S,x,UNK,UNK
+填,O,S,v,土,tián
+精,O,B,n,米,jīng
+益,O,E,n,皿,yì
+髓,O,S,g,骨,suǐ
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+阴,I-ZH,E,n,阝,yīn
+亏,I-ZH,B,vn,二,kuī
+损,E-ZH,E,vn,扌,sǔn
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+的,O,S,uj,白,dí
+精,O,B,n,米,jīng
+子,O,E,n,子,zǐ
+数,O,B,n,攵,shù
+目,O,E,n,目,mù
+少,O,S,a,小,shǎo
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+精,O,B,n,米,jīng
+子,O,E,n,子,zǐ
+活,O,B,n,氵,huó
+动,O,M,n,力,dòng
+力,O,E,n,力,lì
+下,O,B,v,一,xià
+降,O,E,v,阝,jiàng
+之,O,S,u,丶,zhī
+男,O,B,n,田,nán
+性,O,E,n,忄,xìng
+不,O,B,n,一,bù
+育,O,M,n,月,yù
+症,O,E,n,疒,zhèng
+精,O,B,n,米,jīng
+子,O,E,n,子,zǐ
+活,O,B,n,氵,huó
+动,O,M,n,力,dòng
+力,O,E,n,力,lì
+下,O,B,v,一,xià
+降,O,E,v,阝,jiàng
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+；,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+，,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+个,O,S,m,人,gè
+月,O,S,m,月,yuè
+为,O,S,p,丶,wéi
+一,O,B,m,一,yī
+个,O,E,m,人,gè
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+溶,O,B,n,氵,róng
+液,O,M,n,氵,yè
+剂,O,E,n,刂,jì
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+感,B-FJ,B,v,心,gǎn
+冒,E-FJ,E,v,冂,mào
+、,O,S,x,UNK,UNK
+发,B-ZZ,B,v,又,fā
+热,E-ZZ,E,v,灬,rè
+勿,O,S,d,勹,wù
+服,O,S,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+偶,O,B,a,亻,ǒu
+见,O,E,a,见,jiàn
+服,O,S,v,月,fú
+后,O,S,f,口,hòu
+胸,B-ZZ,B,n,月,xiōng
+闷,E-ZZ,E,n,门,mèn
+、,O,S,x,UNK,UNK
+胃,O,B,n,月,wèi
+肠,O,E,n,月,cháng
+不,O,B,a,一,bù
+适,O,E,a,辶,shì
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+长,O,B,ns,长,cháng
+春,O,E,ns,日,chūn
+远,O,B,b,辶,yuǎn
+大,O,E,b,大,dà
+国,O,B,nz,囗,guó
+奥,O,E,nz,大,ào
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+如,O,S,v,女,rú
+正,O,B,t,止,zhèng
+在,O,E,t,土,zài
+服,O,B,vn,月,fú
+用,O,E,vn,用,yòng
+其,O,B,r,八,qí
+他,O,E,r,亻,tā
+药,O,B,n,艹,yào
+品,O,E,n,口,pǐn
+，,O,S,x,UNK,UNK
+使,O,B,v,亻,shǐ
+用,O,E,v,用,yòng
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+前,O,S,f,刂,qián
+请,O,S,v,讠,qǐng
+咨,O,B,vn,口,zī
+询,O,E,vn,讠,xún
+医,O,B,n,匚,yī
+师,O,E,n,巾,shī
+或,O,S,c,戈,huò
+药,O,B,n,艹,yào
+师,O,E,n,巾,shī
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+9,O,S,m,UNK,UNK
+支,O,S,v,支,zhī
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

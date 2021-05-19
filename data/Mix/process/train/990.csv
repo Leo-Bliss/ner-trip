@@ -1,0 +1,133 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+中,O,B,n,丨,zhōng
+药,O,E,n,艹,yào
+保,O,B,v,亻,bǎo
+护,O,E,v,扌,hù
+品,O,B,n,口,pǐn
+种,O,E,n,禾,zhǒng
+二,O,B,b,二,èr
+级,O,E,b,纟,jí
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+粒,O,S,n,米,lì
+*,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+板,O,S,n,木,bǎn
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+止,O,B,v,止,zhǐ
+血,O,E,v,血,xiě
+、,O,S,x,UNK,UNK
+收,B-ZF,B,v,攵,shōu
+敛,E-ZF,E,v,攵,liǎn
+、,O,S,x,UNK,UNK
+调,O,B,v,讠,tiáo
+经,O,E,v,纟,jīng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+月,O,S,m,月,yuè
+事,O,S,n,亅,shì
+不,O,B,v,一,bù
+准,O,E,v,冫,zhǔn
+，,O,S,x,UNK,UNK
+经,O,B,n,纟,jīng
+血,O,E,n,血,xiě
+过,O,B,n,辶,guò
+量,O,E,n,里,liáng
+，,O,S,x,UNK,UNK
+崩,O,B,v,山,bēng
+漏,O,E,v,氵,lòu
+，,O,S,x,UNK,UNK
+淋,O,B,v,氵,lín
+漓,O,E,v,氵,lí
+不,O,B,v,一,bù
+止,O,E,v,止,zhǐ
+，,O,S,x,UNK,UNK
+产,O,B,n,亠,chǎn
+后,O,E,n,口,hòu
+恶,O,B,v,心,è
+露,O,E,v,雨,lòu
+不,O,B,d,一,bù
+尽,O,E,d,尸,jìn
+等,O,S,u,竹,děng
+妇,O,B,n,女,fù
+科,O,E,n,禾,kē
+出,B-ZZ,B,v,凵,chū
+血,E-ZZ,E,v,血,xiě
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+胶,O,B,n,月,jiāo
+囊,O,M,n,口,náng
+剂,O,E,n,刂,jì
+，,O,S,x,UNK,UNK
+内,O,B,n,冂,nèi
+容,O,E,n,宀,róng
+物,O,S,ng,牜,wù
+为,O,S,p,丶,wéi
+棕,O,B,n,木,zōng
+红,O,M,n,纟,hóng
+色,O,E,n,色,sè
+粉,O,B,n,米,fěn
+末,O,E,n,木,mò
+；,O,S,x,UNK,UNK
+味,O,S,ng,口,wèi
+涩,O,S,a,氵,sè
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+南,O,B,ns,十,nán
+京,O,E,ns,亠,jīng
+同,O,B,nr,口,tóng
+仁,O,M,nr,亻,rén
+堂,O,E,nr,土,táng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+责,O,B,n,贝,zé
+任,O,E,n,亻,rèn
+公,O,B,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+铝,O,B,n,钅,lǚ
+塑,O,E,n,土,sù
+包,O,B,v,勹,bāo
+装,O,E,v,衣,zhuāng
+，,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+2,O,E,m,UNK,UNK
+粒,O,S,n,米,lì
+*,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+板,O,S,n,木,bǎn
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

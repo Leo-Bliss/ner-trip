@@ -1,0 +1,135 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+袋,O,S,q,衣,dài
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+丸,O,B,n,丿,wán
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+水,O,B,n,水,shuǐ
+蜜,S-FY,M,n,虫,mì
+丸,O,E,n,丿,wán
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+黑,O,B,n,黑,hēi
+色,O,E,n,色,sè
+的,O,S,uj,白,dí
+水,O,B,n,水,shuǐ
+蜜,S-FY,M,n,虫,mì
+丸,O,E,n,丿,wán
+；,O,S,x,UNK,UNK
+味,O,B,n,口,wèi
+苦,O,E,n,艹,kǔ
+、,O,S,x,UNK,UNK
+微,O,B,a,彳,wēi
+甜,O,E,a,甘,tián
+、,O,S,x,UNK,UNK
+略,O,B,n,田,lüè
+酸,O,E,n,酉,suān
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+1,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+袋,O,S,q,衣,dài
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+伤,O,B,l,亻,shāng
+风,O,M,l,风,fēng
+感,B-FJ,M,l,心,gǎn
+冒,E-FJ,E,l,冂,mào
+患,O,B,n,心,huàn
+者,O,E,n,耂,zhě
+忌,O,B,v,心,jì
+服,O,E,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+厦,O,B,ns,厂,shà
+门,O,E,ns,门,mén
+中,O,B,nt,丨,zhōng
+药,O,M,nt,艹,yào
+厂,O,E,nt,厂,chǎng
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+滋,O,S,v,氵,zī
+肾,O,S,n,月,shèn
+填,O,S,v,土,tián
+精,O,S,n,米,jīng
+，,O,S,x,UNK,UNK
+补,O,B,n,衤,bǔ
+髓,O,E,n,骨,suǐ
+养,B-ZF,B,v,丷,yǎng
+血,E-ZF,E,v,血,xiě
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,O,B,n,月,shèn
+精,O,E,n,米,jīng
+不,O,B,a,一,bù
+足,O,E,a,足,zú
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,i,大,tóu
+晕,I-ZZ,M,i,日,yùn
+目,I-ZZ,M,i,目,mù
+眩,E-ZZ,E,i,目,xuàn
+，,O,S,x,UNK,UNK
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,a,酉,suān
+软,E-ZZ,E,a,车,ruǎn
+，,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+梦,O,S,n,木,mèng
+泄,O,S,vg,氵,xiè
+seg,seg,seg,seg,seg,seg

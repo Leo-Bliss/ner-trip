@@ -1,0 +1,131 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+片,O,E,r,片,piàn
+重,O,S,n,里,zhòng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+3,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+补,O,B,v,衤,bǔ
+血,O,E,v,血,xiě
+健,O,B,n,亻,jiàn
+脾,O,E,n,月,pí
+，,O,S,x,UNK,UNK
+止,O,S,v,止,zhǐ
+带,O,S,v,巾,dài
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+血,O,B,n,血,xiě
+虚,O,E,n,虍,xū
+脾,O,S,n,月,pí
+弱,O,S,a,弓,ruò
+，,O,S,x,UNK,UNK
+带,O,S,v,巾,dài
+下,O,B,n,一,xià
+质,O,E,n,贝,zhì
+清,O,S,a,氵,qīng
+，,O,S,x,UNK,UNK
+经,O,S,p,纟,jīng
+后,O,B,r,口,hòu
+少,O,E,r,小,shǎo
+腹,O,S,n,月,fù
+隐,O,B,a,阝,yǐn
+痛,O,E,a,疒,tòng
+，,O,S,x,UNK,UNK
+头,B-ZZ,B,i,大,tóu
+昏,I-ZZ,M,i,日,hūn
+目,I-ZZ,M,i,目,mù
+眩,E-ZZ,E,i,目,xuàn
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+面,B-ZZ,B,n,面,miàn
+色,I-ZZ,E,n,色,sè
+无,I-ZZ,B,nz,一,wú
+华,E-ZZ,E,nz,十,huá
+ ,O,S,x,UNK,UNK
+对,O,S,p,寸,duì
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+过,O,B,n,辶,guò
+敏,O,M,n,攵,mǐn
+者,O,E,n,耂,zhě
+禁,O,B,v,示,jīn
+用,O,E,v,用,yòng
+，,O,S,x,UNK,UNK
+过,O,B,nr,辶,guò
+敏,O,E,nr,攵,mǐn
+体,O,B,n,亻,tǐ
+质,O,E,n,贝,zhì
+者,O,S,k,耂,zhě
+慎,O,B,v,忄,shèn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+湖,O,B,ns,氵,hú
+南,O,E,ns,十,nán
+康,O,B,nr,广,kāng
+尔,O,M,nr,小,ěr
+佳,O,E,nr,亻,jiā
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+血,O,B,n,血,xiě
+虚,O,E,n,虍,xū
+脾,O,S,n,月,pí
+弱,O,S,a,弓,ruò
+所,O,B,c,户,suǒ
+致,O,E,c,至,zhì
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,M,n,纟,jīng
+不,I-ZZ,M,n,一,bù
+调,E-ZZ,E,n,讠,tiáo
+、,O,S,x,UNK,UNK
+带,O,B,v,巾,dài
+下,O,E,v,一,xià
+病,O,S,n,疒,bìng
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

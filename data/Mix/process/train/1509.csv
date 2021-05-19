@@ -1,0 +1,127 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+粒,O,B,n,米,lì
+重,O,E,n,里,zhòng
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+北,O,B,ns,匕,běi
+京,O,E,ns,亠,jīng
+勃,O,B,z,力,bó
+然,O,E,z,灬,rán
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+滋,B-ZF,B,n,氵,zī
+阴,I-ZF,E,n,阝,yīn
+清,I-ZF,B,a,氵,qīng
+热,E-ZF,E,a,灬,rè
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+固,O,B,l,囗,gù
+经,O,M,l,纟,jīng
+止,O,E,l,止,zhǐ
+带,O,S,v,巾,dài
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+阴,O,B,nr,阝,yīn
+虚,O,E,nr,虍,xū
+血,O,B,n,血,xiě
+热,O,E,n,灬,rè
+，,O,S,x,UNK,UNK
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,E,n,纟,jīng
+先,I-ZZ,B,t,儿,xiān
+期,E-ZZ,E,t,月,qī
+，,O,S,x,UNK,UNK
+经,B-ZZ,B,n,纟,jīng
+血,I-ZZ,E,n,血,xiě
+量,I-ZZ,S,n,里,liáng
+多,E-ZZ,S,m,夕,duō
+滋,B-ZF,B,n,氵,zī
+阴,I-ZF,E,n,阝,yīn
+清,I-ZF,B,a,氵,qīng
+热,E-ZF,E,a,灬,rè
+，,O,S,x,UNK,UNK
+固,O,B,l,囗,gù
+经,O,M,l,纟,jīng
+止,O,E,l,止,zhǐ
+带,O,S,v,巾,dài
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+阴,O,B,nr,阝,yīn
+虚,O,E,nr,虍,xū
+血,O,B,n,血,xiě
+热,O,E,n,灬,rè
+，,O,S,x,UNK,UNK
+月,B-ZZ,B,n,月,yuè
+经,I-ZZ,E,n,纟,jīng
+先,I-ZZ,B,t,儿,xiān
+期,E-ZZ,E,t,月,qī
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+经,B-ZZ,B,n,纟,jīng
+血,I-ZZ,E,n,血,xiě
+量,I-ZZ,S,n,里,liáng
+多,E-ZZ,S,m,夕,duō
+、,O,S,x,UNK,UNK
+色,B-ZZ,S,ng,色,sè
+紫,I-ZZ,S,a,糸,zǐ
+黑,E-ZZ,S,a,黑,hēi
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+",",O,S,x,UNK,UNK
+国,O,B,n,囗,guó
+家,O,E,n,宀,jiā
+医,O,B,j,匚,yī
+保,O,E,j,亻,bǎo
+目,O,B,n,目,mù
+录,O,E,n,彐,lù
+（,O,S,x,UNK,UNK
+乙,O,B,n,乙,yǐ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

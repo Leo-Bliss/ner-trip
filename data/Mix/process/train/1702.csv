@@ -1,0 +1,130 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+温,O,B,nr,氵,wēn
+开,O,M,nr,廾,kāi
+水,O,E,nr,水,shuǐ
+送,O,B,v,辶,sòng
+服,O,E,v,月,fú
+，,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+次,O,E,r,欠,cì
+一,O,B,m,一,yī
+袋,O,E,m,衣,dài
+，,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+日,O,E,r,日,rì
+三,O,B,m,一,sān
+次,O,E,m,欠,cì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+个,O,M,m,人,gè
+月,O,E,m,月,yuè
+为,O,S,p,丶,wéi
+一,O,B,m,一,yī
+个,O,E,m,人,gè
+疗,O,B,n,疒,liáo
+程,O,E,n,禾,chéng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+棕,O,B,n,木,zōng
+黄,O,M,n,黄,huáng
+色,O,E,n,色,sè
+至,O,S,p,至,zhì
+棕,O,S,n,木,zōng
+褐,O,B,n,衤,hè
+色,O,E,n,色,sè
+颗,O,B,n,页,kē
+粒,O,E,n,米,lì
+；,O,S,x,UNK,UNK
+味,O,S,ng,口,wèi
+甜,O,S,a,甘,tián
+、,O,S,x,UNK,UNK
+微,O,B,a,彳,wēi
+苦,O,E,a,艹,kǔ
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,B,d,小,shàng
+未,O,E,d,木,wèi
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+清,B-ZF,B,l,氵,qīng
+热,I-ZF,M,l,灬,rè
+解,I-ZF,M,l,角,jiě
+毒,E-ZF,E,l,母,dú
+，,O,S,x,UNK,UNK
+消,B-FJ,B,n,氵,xiāo
+肿,I-FJ,E,n,月,zhǒng
+散,E-FJ,B,v,攵,sàn
+结,O,E,v,纟,jié
+，,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+附,O,B,n,阝,fù
+件,O,M,n,亻,jiàn
+炎,O,E,n,火,yán
+、,O,S,x,UNK,UNK
+附,O,B,n,阝,fù
+件,O,M,n,亻,jiàn
+炎,O,E,n,火,yán
+ ,O,S,x,UNK,UNK
+7,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+6,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+当,O,S,t,彐,dāng
+药,O,B,n,艹,yào
+品,O,E,n,口,pǐn
+性,O,B,n,忄,xìng
+状,O,E,n,犬,zhuàng
+发,O,B,v,又,fā
+生,O,E,v,生,shēng
+改,O,B,v,攵,gǎi
+变,O,E,v,又,biàn
+时,O,S,n,日,shí
+禁,O,B,v,示,jīn
+止,O,E,v,止,zhǐ
+服,O,B,vn,月,fú
+用,O,E,vn,用,yòng
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+孕,O,B,n,子,yùn
+妇,O,E,n,女,fù
+慎,O,B,v,忄,shèn
+用,O,E,v,用,yòng
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+广,O,B,ns,广,guǎng
+西,O,E,ns,覀,xī
+润,O,B,nz,氵,rùn
+达,O,E,nz,辶,dá
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+盒,O,E,r,皿,hé
+6,O,S,m,UNK,UNK
+袋,O,S,q,衣,dài
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

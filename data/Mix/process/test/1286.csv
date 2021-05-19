@@ -1,0 +1,142 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+呼,O,B,l,口,hū
+吸,O,M,l,口,xī
+道,O,E,l,辶,dào
+疾,O,B,n,疒,jí
+病,O,E,n,疒,bìng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+养,O,B,nr,丷,yǎng
+阴,O,M,nr,阝,yīn
+润,O,E,nr,氵,rùn
+肺,O,S,n,月,fèi
+，,O,S,x,UNK,UNK
+化,O,B,n,亻,huà
+痰,O,M,n,疒,tán
+止,O,M,n,止,zhǐ
+咳,O,E,n,口,ké
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肺,B-ZH,S,n,月,fèi
+肾,I-ZH,B,n,月,shèn
+阴,I-ZH,M,n,阝,yīn
+虚,E-ZH,E,n,虍,xū
+，,O,S,x,UNK,UNK
+燥,O,S,ag,火,zào
+咳,O,S,v,口,ké
+少,O,S,a,小,shǎo
+痰,O,S,n,疒,tán
+，,O,S,x,UNK,UNK
+咽,B-FY,B,n,口,yān
+干,E-FY,E,n,干,gān
+喉,O,B,n,口,hóu
+痛,O,E,n,疒,tòng
+，,O,S,x,UNK,UNK
+对,O,B,n,寸,duì
+症,O,E,n,疒,zhèng
+用,O,B,n,用,yòng
+药,O,E,n,艹,yào
+效,O,B,n,攵,xiào
+果,O,E,n,木,guǒ
+更,O,B,d,曰,gēng
+好,O,E,d,女,hǎo
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+水,O,B,n,水,shuǐ
+蜜,S-FY,M,n,虫,mì
+丸,O,E,n,丿,wán
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+养,O,B,nr,丷,yǎng
+阴,O,M,nr,阝,yīn
+润,O,E,nr,氵,rùn
+肺,O,S,n,月,fèi
+，,O,S,x,UNK,UNK
+化,O,B,n,亻,huà
+痰,O,M,n,疒,tán
+止,O,M,n,止,zhǐ
+咳,O,E,n,口,ké
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肺,B-ZH,S,n,月,fèi
+肾,I-ZH,B,n,月,shèn
+阴,I-ZH,M,n,阝,yīn
+虚,E-ZH,E,n,虍,xū
+，,O,S,x,UNK,UNK
+燥,O,S,ag,火,zào
+咳,O,S,v,口,ké
+少,O,S,a,小,shǎo
+痰,O,S,n,疒,tán
+，,O,S,x,UNK,UNK
+咽,B-FY,B,n,口,yān
+干,E-FY,E,n,干,gān
+喉,O,B,n,口,hóu
+痛,O,E,n,疒,tòng
+水,O,B,n,水,shuǐ
+蜜,S-FY,M,n,虫,mì
+丸,O,E,n,丿,wán
+ ,O,S,x,UNK,UNK
+乌,O,B,ns,丿,wū
+兰,O,M,ns,丷,lán
+浩,O,M,ns,氵,hào
+特,O,E,ns,牜,tè
+中,O,B,ns,丨,zhōng
+蒙,O,E,ns,艹,mēng
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+非,O,B,l,非,fēi
+处,O,M,l,夂,chǔ
+方,O,M,l,方,fāng
+药,O,E,l,艹,yào
+物,O,S,zg,牜,wù
+（,O,S,x,UNK,UNK
+甲,O,B,n,田,jiǎ
+类,O,E,n,米,lèi
+）,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+丸,O,S,q,丿,wán
+重,O,S,a,里,zhòng
+9,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+国,O,B,nz,囗,guó
+药,O,M,nz,艹,yào
+准,O,M,nz,冫,zhǔn
+字,O,E,nz,子,zì
+Z,O,B,eng,UNK,UNK
+1,O,M,eng,UNK,UNK
+5,O,M,eng,UNK,UNK
+0,O,M,eng,UNK,UNK
+2,O,M,eng,UNK,UNK
+1,O,M,eng,UNK,UNK
+6,O,M,eng,UNK,UNK
+5,O,M,eng,UNK,UNK
+7,O,E,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

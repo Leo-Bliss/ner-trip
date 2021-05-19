@@ -1,0 +1,126 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+江,O,B,ns,氵,jiāng
+西,O,E,ns,覀,xī
+药,O,B,n,艹,yào
+都,O,E,n,阝,dū
+仁,O,B,nr,亻,rén
+和,O,E,nr,口,hé
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+4,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+，,O,S,x,UNK,UNK
+饭,O,B,t,饣,fàn
+后,O,E,t,口,hòu
+服,O,S,v,月,fú
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,n,母,měi
+粒,O,E,n,米,lì
+装,O,S,n,衣,zhuāng
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+5,O,M,m,UNK,UNK
+2,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肝,B-ZH,B,n,月,gān
+肾,I-ZH,E,n,月,shèn
+阴,I-ZH,B,nr,阝,yīn
+虚,E-ZH,E,nr,虍,xū
+，,O,S,x,UNK,UNK
+或,O,S,c,戈,huò
+转,O,B,n,车,zhuǎn
+氨,O,M,n,气,ān
+酶,O,E,n,酉,méi
+增,O,B,v,土,zēng
+高,O,E,v,高,gāo
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+益,O,S,nr,皿,yì
+肝,O,S,n,月,gān
+滋,O,S,v,氵,zī
+肾,O,S,n,月,shèn
+，,O,S,x,UNK,UNK
+解,O,B,v,角,jiě
+毒,O,E,v,母,dú
+祛,O,B,v,礻,qū
+湿,O,E,v,氵,shī
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肝,B-ZH,B,n,月,gān
+肾,I-ZH,E,n,月,shèn
+阴,I-ZH,B,nr,阝,yīn
+虚,E-ZH,E,nr,虍,xū
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+湿,O,B,v,氵,shī
+毒,O,E,v,母,dú
+未,O,B,t,木,wèi
+清,O,E,t,氵,qīng
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+胁,B-ZZ,B,v,月,xié
+痛,E-ZZ,E,v,疒,tòng
+，,O,S,x,UNK,UNK
+纳,B-ZZ,B,n,纟,nà
+差,E-ZZ,E,n,工,chà
+，,O,S,x,UNK,UNK
+腹,B-ZZ,B,v,月,fù
+胀,E-ZZ,E,v,月,zhàng
+，,O,S,x,UNK,UNK
+腰,B-ZZ,B,n,月,yāo
+酸,I-ZZ,E,n,酉,suān
+乏,I-ZZ,B,a,丿,fá
+力,E-ZZ,E,a,力,lì
+，,O,S,x,UNK,UNK
+尿,B-ZZ,B,n,尸,niào
+黄,E-ZZ,E,n,黄,huáng
+等,O,S,u,竹,děng
+症,O,S,ng,疒,zhèng
+；,O,S,x,UNK,UNK
+或,O,S,c,戈,huò
+慢,O,B,b,忄,màn
+性,O,E,b,忄,xìng
+肝,O,B,n,月,gān
+炎,O,E,n,火,yán
+氨,O,S,n,气,ān
+基,O,B,nz,土,jī
+转,O,M,nz,车,zhuǎn
+移,O,M,nz,禾,yí
+酶,O,E,nz,酉,méi
+增,O,B,v,土,zēng
+高,O,E,v,高,gāo
+者,O,S,k,耂,zhě
+seg,seg,seg,seg,seg,seg

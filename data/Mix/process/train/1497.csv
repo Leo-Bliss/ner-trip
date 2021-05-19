@@ -1,0 +1,87 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+片,O,B,n,片,piàn
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+糖,O,B,n,米,táng
+衣,O,E,n,衣,yī
+),O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+河,O,B,ns,氵,hé
+南,O,E,ns,十,nán
+润,O,S,v,氵,rùn
+弘,O,S,nr,弓,hóng
+本,O,B,n,木,běn
+草,O,E,n,艹,cǎo
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+清,B-ZF,B,a,氵,qīng
+利,I-ZF,E,a,刂,lì
+湿,I-ZF,B,z,氵,shī
+热,E-ZF,E,z,灬,rè
+、,O,S,x,UNK,UNK
+止,O,S,v,止,zhǐ
+带,O,S,v,巾,dài
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+湿,B-ZH,B,z,氵,shī
+热,I-ZH,E,z,灬,rè
+下,I-ZH,B,v,一,xià
+注,E-ZH,E,v,氵,zhù
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+赤,B-ZZ,B,n,赤,chì
+带,E-ZZ,E,n,巾,dài
+、,O,S,x,UNK,UNK
+白,O,B,n,白,bái
+带,O,E,n,巾,dài
+、,O,S,x,UNK,UNK
+黄,O,B,n,黄,huáng
+带,O,E,n,巾,dài
+片,O,B,n,片,piàn
+剂,O,E,n,刂,jì
+(,O,S,x,UNK,UNK
+糖,O,B,n,米,táng
+衣,O,E,n,衣,yī
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+8,O,S,m,UNK,UNK
+片,O,S,q,片,piàn
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,x,UNK,UNK
+～,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

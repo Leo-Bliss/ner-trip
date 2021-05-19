@@ -1,0 +1,86 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+温,O,B,ns,氵,wēn
+阳,O,E,ns,阝,yáng
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+，,O,S,x,UNK,UNK
+益,O,B,nz,皿,yì
+精,O,E,nz,米,jīng
+填,O,B,n,土,tián
+髓,O,E,n,骨,suǐ
+，,O,S,x,UNK,UNK
+强,O,B,n,弓,qiáng
+筋,O,E,n,竹,jīn
+壮,O,B,n,士,zhuàng
+骨,O,E,n,骨,gǔ
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+腰,B-ZZ,S,n,月,yāo
+膝,I-ZZ,S,ng,月,xī
+酸,I-ZZ,B,a,酉,suān
+软,E-ZZ,E,a,车,ruǎn
+，,O,S,x,UNK,UNK
+阳,B-ZZ,B,v,阝,yáng
+痿,I-ZZ,E,v,疒,wěi
+不,I-ZZ,S,d,一,bù
+举,E-ZZ,S,v,丶,jǔ
+，,O,S,x,UNK,UNK
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+早,O,B,v,日,zǎo
+泄,O,E,v,氵,xiè
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+小,B-ZZ,B,nr,小,xiǎo
+便,I-ZZ,E,nr,亻,biàn
+频,I-ZZ,B,n,页,pín
+数,E-ZZ,E,n,攵,shù
+ ,O,S,x,UNK,UNK
+哈,O,B,ns,口,hā
+尔,O,M,ns,小,ěr
+滨,O,E,ns,氵,bīn
+大,O,B,ns,大,dà
+洋,O,E,ns,氵,yáng
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+4,O,M,m,UNK,UNK
+3,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+3,O,B,m,UNK,UNK
+0,O,E,m,UNK,UNK
+粒,O,S,n,米,lì
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+淡,O,B,n,氵,dàn
+盐,S-FY,M,n,皿,yán
+水,O,E,n,水,shuǐ
+送,O,S,v,辶,sòng
+下,O,S,f,一,xià
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+5,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

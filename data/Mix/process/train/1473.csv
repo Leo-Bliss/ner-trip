@@ -1,0 +1,80 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+西,O,B,ns,覀,xī
+安,O,E,ns,宀,ān
+正,O,B,a,止,zhèng
+大,O,E,a,大,dà
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+引,O,B,v,弓,yǐn
+导,O,E,v,寸,dǎo
+用,O,B,n,用,yòng
+药,O,E,n,艹,yào
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+1,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+每,O,B,n,母,měi
+粒,O,E,n,米,lì
+相,O,B,v,目,xiāng
+当,O,M,v,彐,dāng
+于,O,E,v,二,yú
+原,O,B,n,厂,yuán
+生,O,E,n,生,shēng
+药,O,S,n,艹,yào
+1,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+杀,O,B,n,木,shā
+虫,O,E,n,虫,chóng
+，,O,S,x,UNK,UNK
+消,O,B,n,氵,xiāo
+炎,O,E,n,火,yán
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,S,p,用,yòng
+与,O,S,p,一,yǔ
+引,O,B,v,弓,yǐn
+导,O,E,v,寸,dǎo
+滴,O,B,n,氵,dī
+虫,O,E,n,虫,chóng
+，,O,S,x,UNK,UNK
+滴,O,B,n,氵,dī
+虫,O,M,n,虫,chóng
+性,O,E,n,忄,xìng
+引,O,B,v,弓,yǐn
+导,O,E,v,寸,dǎo
+炎,O,S,n,火,yán
+，,O,S,x,UNK,UNK
+滴,O,B,n,氵,dī
+虫,O,M,n,虫,chóng
+性,O,E,n,忄,xìng
+尿,O,B,n,尸,niào
+道,O,M,n,辶,dào
+炎,O,E,n,火,yán
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

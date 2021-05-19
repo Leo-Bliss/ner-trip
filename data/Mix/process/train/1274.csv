@@ -1,0 +1,111 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+补,O,B,v,衤,bǔ
+肾,O,E,v,月,shèn
+壮,O,B,nz,士,zhuàng
+阳,O,E,nz,阝,yáng
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+肾,B-ZH,B,n,月,shèn
+阳,I-ZH,E,n,阝,yáng
+不,I-ZH,B,a,一,bù
+足,E-ZH,E,a,足,zú
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+的,O,S,uj,白,dí
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+腿,B-ZZ,B,n,月,tuǐ
+软,E-ZZ,E,n,车,ruǎn
+，,O,S,x,UNK,UNK
+精,O,B,n,米,jīng
+神,O,E,n,礻,shén
+怠,O,B,a,心,dài
+倦,O,E,a,亻,juàn
+，,O,S,x,UNK,UNK
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+ ,O,S,x,UNK,UNK
+每,O,S,r,母,měi
+1,O,B,m,UNK,UNK
+0,O,M,m,UNK,UNK
+0,O,E,m,UNK,UNK
+丸,O,S,q,丿,wán
+重,O,S,a,里,zhòng
+6,O,S,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+广,O,B,ns,广,guǎng
+东,O,E,ns,一,dōng
+联,O,B,nt,耳,lián
+康,O,E,nt,广,kāng
+药,O,B,n,艹,yào
+业,O,E,n,一,yè
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+藏,O,B,nz,艹,cáng
+药,O,E,nz,艹,yào
+治,O,B,v,氵,zhì
+疗,O,E,v,疒,liáo
+肾,B-ZH,B,n,月,shèn
+阳,I-ZH,E,n,阝,yáng
+不,I-ZH,B,a,一,bù
+足,E-ZH,E,a,足,zú
+引,O,B,v,弓,yǐn
+起,O,E,v,走,qǐ
+的,O,S,uj,白,dí
+腰,B-ZZ,B,n,月,yāo
+酸,E-ZZ,E,n,酉,suān
+腿,B-ZZ,B,n,月,tuǐ
+软,E-ZZ,E,n,车,ruǎn
+，,O,S,x,UNK,UNK
+精,O,B,n,米,jīng
+神,O,E,n,礻,shén
+怠,O,B,a,心,dài
+倦,O,E,a,亻,juàn
+，,O,S,x,UNK,UNK
+阳,O,B,v,阝,yáng
+痿,O,E,v,疒,wěi
+遗,O,B,n,辶,yí
+精,O,E,n,米,jīng
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+。,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+克,O,S,nr,十,kè
+，,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

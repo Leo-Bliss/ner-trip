@@ -1,0 +1,84 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+每,O,B,r,母,měi
+支,O,E,r,支,zhī
+装,O,S,n,衣,zhuāng
+2,O,S,m,UNK,UNK
+m,O,B,eng,UNK,UNK
+l,O,E,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+肌,O,S,ng,月,jī
+内,O,S,f,冂,nèi
+注,O,B,v,氵,zhù
+射,O,E,v,寸,shè
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+2,O,S,x,UNK,UNK
+-,O,S,x,UNK,UNK
+4,O,S,x,UNK,UNK
+毫,O,B,q,毛,háo
+升,O,E,q,十,shēng
+（,O,S,x,UNK,UNK
+1,O,S,x,UNK,UNK
+-,O,S,x,UNK,UNK
+2,O,S,m,UNK,UNK
+支,O,S,v,支,zhī
+）,O,S,x,UNK,UNK
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,x,UNK,UNK
+-,O,S,x,UNK,UNK
+3,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+理,O,S,n,王,lǐ
+气,O,B,n,气,qì
+化,O,E,n,亻,huà
+瘀,O,S,g,疒,yū
+，,O,S,x,UNK,UNK
+消,B-FJ,B,n,氵,xiāo
+肿,I-FJ,E,n,月,zhǒng
+散,E-FJ,B,v,攵,sàn
+结,O,E,v,纟,jié
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+气,B-ZH,B,n,气,qì
+滞,I-ZH,E,n,氵,zhì
+血,I-ZH,B,n,血,xiě
+瘀,I-ZH,E,n,疒,yū
+证,E-ZH,S,n,讠,zhèng
+的,O,S,uj,白,dí
+乳,O,B,n,乚,rǔ
+癖,O,E,n,疒,pǐ
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+黑,O,B,ns,黑,hēi
+龙,O,M,ns,龙,lóng
+江,O,E,ns,氵,jiāng
+乌,O,B,ns,丿,wū
+苏,O,M,ns,艹,sū
+里,O,M,ns,里,lǐ
+江,O,E,ns,氵,jiāng
+佳,O,S,a,亻,jiā
+大,O,S,a,大,dà
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg

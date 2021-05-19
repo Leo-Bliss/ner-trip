@@ -1,0 +1,141 @@
+word,label,bound,flag,radical,pinyin
+ ,O,S,x,UNK,UNK
+口,O,B,n,口,kǒu
+服,O,E,n,月,fú
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+次,O,E,m,欠,cì
+6,O,S,m,UNK,UNK
+粒,O,S,n,米,lì
+，,O,S,x,UNK,UNK
+一,O,B,m,一,yī
+日,O,E,m,日,rì
+2,O,S,m,UNK,UNK
+次,O,S,t,欠,cì
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+2,O,B,m,UNK,UNK
+4,O,E,m,UNK,UNK
+片,O,S,q,片,piàn
+/,O,S,x,UNK,UNK
+盒,O,S,q,皿,hé
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+0,O,B,m,UNK,UNK
+.,O,M,m,UNK,UNK
+seg,seg,seg,seg,seg,seg
+5,O,E,m,UNK,UNK
+g,O,S,eng,UNK,UNK
+*,O,S,x,UNK,UNK
+2,O,B,m,UNK,UNK
+4,O,E,m,UNK,UNK
+s,O,S,eng,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+本,O,B,n,木,běn
+品,O,E,n,口,pǐn
+为,O,S,p,丶,wéi
+胶,O,B,n,月,jiāo
+囊,O,M,n,口,náng
+剂,O,E,n,刂,jì
+，,O,S,x,UNK,UNK
+内,O,B,n,冂,nèi
+容,O,E,n,宀,róng
+物,O,S,ng,牜,wù
+为,O,S,p,丶,wéi
+灰,O,B,n,火,huī
+褐,O,M,n,衤,hè
+色,O,E,n,色,sè
+至,O,S,p,至,zhì
+深,O,B,n,氵,shēn
+褐,O,M,n,衤,hè
+色,O,E,n,色,sè
+的,O,S,uj,白,dí
+颗,O,B,n,页,kē
+粒,O,E,n,米,lì
+或,O,S,c,戈,huò
+粉,O,B,n,米,fěn
+末,O,E,n,木,mò
+；,O,S,x,UNK,UNK
+味,O,S,ng,口,wèi
+微,O,B,a,彳,wēi
+苦,O,E,a,艹,kǔ
+、,O,S,x,UNK,UNK
+涩,O,S,a,氵,sè
+。,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+尚,O,S,d,小,shàng
+不,O,S,d,一,bù
+明,O,B,ad,日,míng
+确,O,E,ad,石,què
+。,O,S,x,UNK,UNK
+seg,seg,seg,seg,seg,seg
+ ,O,S,x,UNK,UNK
+ ,O,S,x,UNK,UNK
+湖,O,B,ns,氵,hú
+南,O,E,ns,十,nán
+方,O,B,nr,方,fāng
+盛,O,E,nr,皿,shèng
+制,O,B,n,刂,zhì
+药,O,E,n,艹,yào
+股,O,B,n,月,gǔ
+份,O,E,n,亻,fèn
+有,O,B,n,月,yǒu
+限,O,M,n,阝,xiàn
+公,O,M,n,八,gōng
+司,O,E,n,口,sī
+ ,O,S,x,UNK,UNK
+止,O,B,v,止,zhǐ
+血,O,E,v,血,xiě
+，,O,S,x,UNK,UNK
+消,O,B,n,氵,xiāo
+肿,O,E,n,月,zhǒng
+，,O,S,x,UNK,UNK
+化,O,B,n,亻,huà
+瘀,O,E,n,疒,yū
+。,O,S,x,UNK,UNK
+用,O,B,v,用,yòng
+于,O,E,v,二,yú
+功,O,B,n,力,gōng
+能,O,M,n,月,néng
+性,O,E,n,忄,xìng
+子,O,B,n,子,zǐ
+宫,O,M,n,宀,gōng
+出,B-ZZ,M,n,凵,chū
+血,E-ZZ,E,n,血,xiě
+，,O,S,x,UNK,UNK
+崩,B-ZH,B,v,山,bēng
+中,I-ZH,E,v,丨,zhōng
+下,I-ZH,B,v,一,xià
+血,E-ZH,E,v,血,xiě
+，,O,S,x,UNK,UNK
+衄,B-ZZ,S,g,血,nǜ
+血,E-ZZ,S,n,血,xiě
+，,O,S,x,UNK,UNK
+咳,O,B,v,口,ké
+血,O,E,v,血,xiě
+，,O,S,x,UNK,UNK
+吐,B-ZZ,B,v,口,tǔ
+血,E-ZZ,E,v,血,xiě
+等,O,B,v,竹,děng
+出,B-ZZ,E,v,凵,chū
+血,E-ZZ,B,n,血,xiě
+症,O,E,n,疒,zhèng
+seg,seg,seg,seg,seg,seg

@@ -1,0 +1,28 @@
+QTableView::item::selected{
+        color:MidnightBlue;
+        font-size:x-large;
+        font-weight:bolder;
+        background: rgba(126, 207, 255, 0.4);}
+QTableView::Item{
+        border:0px solid rgb(0,0,0);
+        border-bottom:1px solid rgba(187, 192, 177, 0.42);}
+
+
+QHeaderView {
+    color: #000000;
+    /*font: bold 10pt;*/
+    background-color: rgb(255, 255, 255);/*设置表头空白区域背景色*/
+    border: 0px solid rgb(144, 144, 144);
+    border:0px solid rgb(191,191,191);
+    border-left-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-radius:0px;
+}
+
+
+
+
+
+
+
+
