@@ -198,3 +198,8 @@
 [2021-05-19 18:25:10,369 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
 [2021-05-19 18:25:10,369 - bilstm_crf2.py - preprocess.utils - INFO] - =========== testing ===========
 [2021-05-19 21:53:34,542 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x000001D0C3C41AC8>
+[2021-06-15 11:25:00,645 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x0000029C33D666A0>
+[2021-06-15 11:26:01,429 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x0000027A3A190780>
+[2021-06-15 11:29:20,291 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x000001845A221860>
+[2021-06-15 11:31:11,960 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x0000013AAFE967F0>
+[2021-06-15 11:32:31,486 - model_manager.py - preprocess.utils - INFO] - <models.model_manager.Args object at 0x000002D7E6FC19E8>
