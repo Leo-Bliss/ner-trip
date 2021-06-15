@@ -1,4 +1,4 @@
-model_checkpoint_path: "D:\\NER\\data\\Mix\\outputs\\1620921350\\checkpoints/-8640"
+model_checkpoint_path: "D:\\NER_Trip\\data\\Mix\\outputs\\1620921350\\checkpoints/-8640"
 all_model_checkpoint_paths: "/home/gitProjects/ner/data/Mix/outputs/1620921350/checkpoints/-7776"
 all_model_checkpoint_paths: "/home/gitProjects/ner/data/Mix/outputs/1620921350/checkpoints/-7992"
 all_model_checkpoint_paths: "/home/gitProjects/ner/data/Mix/outputs/1620921350/checkpoints/-8208"
