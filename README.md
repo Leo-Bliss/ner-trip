@@ -14,11 +14,8 @@
 
 > 只要并只有你足够热爱一件事情，你可以克服任何困难。
 ## About
-+ 江西中医药大学计算机学院
-+ 17计算机科学与技术班 赖智豪(201701014011)
 + 毕设题目：**中医电子病历实体识别模型研究**
-+ 导师： 程春雷教授
-+ 作者邮箱：tbyouth11@gmail
++ 作者邮箱：tbyouth11@gmail.com
 
 ## How to use it?
 
@@ -112,7 +109,6 @@
 [![gInXd0.png](https://z3.ax1x.com/2021/05/19/gInXd0.png)](https://imgtu.com/i/gInXd0)
 [![gInOZq.png](https://z3.ax1x.com/2021/05/19/gInOZq.png)](https://imgtu.com/i/gInOZq)
 [![gInqLn.png](https://z3.ax1x.com/2021/05/19/gInqLn.png)](https://imgtu.com/i/gInqLn)
-[![gInjoV.png](https://z3.ax1x.com/2021/05/19/gInjoV.png)](https://imgtu.com/i/gInjoV)
 
 
 
